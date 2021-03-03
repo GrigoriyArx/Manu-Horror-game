@@ -1,0 +1,33 @@
+[16:10:44.047815] [Import] [info] (th=23256) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\KILL_ME.fbx
+[16:10:44.051201] [Import] [info] (th=23256) Imported scene tree:
+name: "RootNode"
+
+	name: "LongCave.002"
+	numMeshes: 1
+	 addr: "000001A98706E3D0"
+	 name: "Cube.044"
+	 numVertices: "457"
+	 numFaces: "225"
+	
+	
+
+[16:10:44.051295] [Import] [info] (th=23256) File loaded successfully
+[16:10:44.051385] [Import] [info] (th=23256) Meshes count: 1
+[16:10:44.051463] [Import] [info] (th=23256) Materials count: 1
+[16:10:44.051995] [Import] [info] (th=23256) Textures count (imported): 2
+[16:38:28.415221] [Import] [info] (th=23256) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\KILL_ME.fbx
+[16:38:28.417924] [Import] [info] (th=23256) Imported scene tree:
+name: "RootNode"
+
+	name: "LongCave.002"
+	numMeshes: 1
+	 addr: "000001A987073380"
+	 name: "Cube.044"
+	 numVertices: "183"
+	 numFaces: "299"
+	
+	
+
+[16:38:28.418121] [Import] [info] (th=23256) File loaded successfully
+[16:38:28.418249] [Import] [info] (th=23256) Meshes count: 1
+[16:38:28.418315] [Import] [info] (th=23256) Materials count: 1

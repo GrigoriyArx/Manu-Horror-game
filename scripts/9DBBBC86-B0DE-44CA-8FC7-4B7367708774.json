@@ -1,0 +1,1 @@
+{"@class":"TimeLineScript","id":{"uuid":"9DBBBC86-B0DE-44CA-8FC7-4B7367708774"},"name":"Animations Animation 1","enableOnAwake":false,"loop":false,"jumpToFirstFrameAtEnd":false,"speed":1.0,"weight":1.0,"loopStartTime":0,"loopDuration":0,"is_imported":false,"type":"user","scripts":{"@class":"StdListRuntimeScript","list":[]},"triggers":[]}

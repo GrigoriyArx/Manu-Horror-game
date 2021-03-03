@@ -1,0 +1,1 @@
+{"@class":"Light","id":{"uuid":"BA60100A-7292-40D0-A1CB-FA217A903EAC"},"lightType":"point","color":{"values":[1.0,0.7794766426086426,0.41916534304618838]},"intensity":4.0,"radius":6.5,"coneAngle":45.0,"prenumbra":1.0,"shadowType":"no","shadowSizeX":16.0,"shadowSizeY":16.0,"shadowResolutionX":1024.0,"shadowResolutionY":1024.0,"shadowDarkness":1.0,"shadowBias":0.5}

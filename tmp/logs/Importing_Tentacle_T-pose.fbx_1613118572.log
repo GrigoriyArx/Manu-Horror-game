@@ -1,0 +1,77 @@
+[11:29:32.597401] [Import] [info] (th=11936) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_T-pose.fbx
+[11:29:32.717571] [Import] [info] (th=11936) Imported scene tree:
+name: "RootNode"
+
+	name: "Tentacle"
+	numMeshes: 1
+	 addr: "000001AF7EF346E0"
+	 name: "Plane"
+	 numVertices: "838"
+	 numFaces: "1344"
+	
+	
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "IK_spine"
+			
+				name: "IK_neck"
+				
+					name: "IK_end"
+					
+			name: "Root.001"
+			
+				name: "Root.002"
+				
+					name: "Root.003"
+					
+						name: "Root.004"
+						
+							name: "Root.005"
+							
+								name: "Root.006"
+								
+									name: "Root.007"
+									
+										name: "Root.008"
+										
+
+[11:29:32.717618] [Import] [info] (th=11936) File loaded successfully
+[11:29:32.717656] [Import] [info] (th=11936) Meshes count: 1
+[11:29:32.717694] [Import] [info] (th=11936) Materials count: 1
+[11:29:32.738633] [Import] [info] (th=11936) Textures count (imported): 2
+[11:31:15.985135] [Import] [info] (th=11936) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_idle.fbx
+[11:31:16.071447] [Import] [info] (th=11936) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Root"
+		
+			name: "IK_spine"
+			
+				name: "IK_neck"
+				
+					name: "IK_end"
+					
+			name: "Root.001"
+			
+				name: "Root.002"
+				
+					name: "Root.003"
+					
+						name: "Root.004"
+						
+							name: "Root.005"
+							
+								name: "Root.006"
+								
+									name: "Root.007"
+									
+										name: "Root.008"
+										
+
+[11:31:16.071494] [Import] [info] (th=11936) File loaded successfully
+[11:31:16.071533] [Import] [info] (th=11936) Meshes count: 0
+[11:31:16.071571] [Import] [info] (th=11936) Materials count: 0

@@ -1,0 +1,50 @@
+[20:36:21.286675] [Import] [info] (th=4172) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_LONG_cave.fbx
+[20:36:21.410101] [Import] [info] (th=4172) Imported scene tree:
+name: "RootNode"
+
+	name: "LongCave"
+	numMeshes: 1
+	 addr: "00000215A70FFEE0"
+	 name: "Cube.048"
+	 numVertices: "149"
+	 numFaces: "70"
+	
+	
+
+[20:36:21.410145] [Import] [info] (th=4172) File loaded successfully
+[20:36:21.410180] [Import] [info] (th=4172) Meshes count: 1
+[20:36:21.410214] [Import] [info] (th=4172) Materials count: 1
+[20:37:15.477944] [Import] [info] (th=4172) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_BlackBody.fbx
+[20:37:15.483737] [Import] [info] (th=4172) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "00000215A7104940"
+	 name: "Cube.001"
+	 numVertices: "679"
+	 numFaces: "367"
+	
+	
+
+[20:37:15.483909] [Import] [info] (th=4172) File loaded successfully
+[20:37:15.484073] [Import] [info] (th=4172) Meshes count: 1
+[20:37:15.484236] [Import] [info] (th=4172) Materials count: 1
+[20:37:15.484889] [Import] [warning] (th=4172) It seems that scene structure is different
+[20:41:21.674721] [Import] [info] (th=4172) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_Bath.fbx
+[20:41:21.678178] [Import] [info] (th=4172) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_Bath"
+	numMeshes: 1
+	 addr: "00000215A7100430"
+	 name: "Cube.094"
+	 numVertices: "1396"
+	 numFaces: "824"
+	
+	
+
+[20:41:21.678222] [Import] [info] (th=4172) File loaded successfully
+[20:41:21.678256] [Import] [info] (th=4172) Meshes count: 1
+[20:41:21.678290] [Import] [info] (th=4172) Materials count: 1
+[20:41:21.698418] [Import] [info] (th=4172) Textures count (imported): 2

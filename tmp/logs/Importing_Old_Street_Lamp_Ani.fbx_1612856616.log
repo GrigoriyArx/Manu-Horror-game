@@ -1,0 +1,78 @@
+[10:43:36.409573] [Import] [info] (th=21000) Importing from E:\!FOR_ASSETS\PROPS\Old_Street_lamp\Old_Street_Lamp_Ani.fbx
+[10:43:36.448503] [Import] [info] (th=21000) Imported scene tree:
+name: "RootNode"
+
+	name: "Stolb.007"
+	numMeshes: 1
+	 addr: "000001A73C285580"
+	 name: "Circle.003"
+	 numVertices: "1824"
+	 numFaces: "1922"
+	
+	
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "wire"
+			
+			name: "Lamp_wire1"
+			
+				name: "Lamp_wire2"
+				
+					name: "Lamp"
+					
+
+[10:43:36.448671] [Import] [info] (th=21000) File loaded successfully
+[10:43:36.448856] [Import] [info] (th=21000) Meshes count: 1
+[10:43:36.448907] [Import] [info] (th=21000) Materials count: 1
+[10:43:36.449371] [Import] [info] (th=21000) Textures count (imported): 2
+[10:49:59.748594] [Import] [info] (th=21000) Importing from E:\!FOR_ASSETS\PROPS\Old_Street_lamp\Old_Street_Lamp_Ani2.fbx
+[10:49:59.751425] [Import] [info] (th=21000) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "wire"
+			
+			name: "Lamp_wire1"
+			
+				name: "Lamp_wire2"
+				
+					name: "Lamp"
+					
+
+[10:49:59.751465] [Import] [info] (th=21000) File loaded successfully
+[10:49:59.751500] [Import] [info] (th=21000) Meshes count: 0
+[10:49:59.751537] [Import] [info] (th=21000) Materials count: 0
+[10:56:06.302154] [Import] [info] (th=21000) Importing from E:\!FOR_ASSETS\PROPS\Old_Street_lamp\Old_Pilar.fbx
+[10:56:06.307250] [Import] [info] (th=21000) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Base"
+		
+			name: "wire"
+			
+			name: "Lamp_wire1"
+			
+				name: "Lamp_wire2"
+				
+					name: "Lamp"
+					
+	name: "Stolb.008"
+	numMeshes: 1
+	 addr: "000001A73C284040"
+	 name: "Circle.004"
+	 numVertices: "915"
+	 numFaces: "852"
+	
+	
+
+[10:56:06.307294] [Import] [info] (th=21000) File loaded successfully
+[10:56:06.307334] [Import] [info] (th=21000) Meshes count: 1
+[10:56:06.307400] [Import] [info] (th=21000) Materials count: 1
+[10:56:06.307708] [Import] [info] (th=21000) Textures count (imported): 2

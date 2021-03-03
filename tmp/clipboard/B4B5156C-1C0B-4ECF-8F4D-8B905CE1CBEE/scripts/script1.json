@@ -1,0 +1,39 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "0956EAE2-8589-4DB4-BBA7-A2A1AC909332"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "63949410-2ADA-4A31-8F52-B41935D7BFD9"
+                },
+                "name": "Sun",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "721E15A6-6255-4FF0-BBA8-4C5934D4F32F"
+                },
+                "AnimationType": "sun",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": []
+}

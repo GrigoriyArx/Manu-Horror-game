@@ -1,0 +1,207 @@
+[15:37:16.271369] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\UI\Failed\Failed.fbx
+[15:37:16.420897] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "Light"
+	
+	name: "Camera"
+	
+	name: "3D_UI_failed"
+	numMeshes: 1
+	 addr: "000002767D27E510"
+	 name: "Text"
+	 numVertices: "1686"
+	 numFaces: "1397"
+	
+	
+
+[15:37:16.421009] [Import] [info] (th=17748) File loaded successfully
+[15:37:16.421045] [Import] [info] (th=17748) Meshes count: 1
+[15:37:16.421079] [Import] [info] (th=17748) Materials count: 1
+[15:37:16.439843] [Import] [info] (th=17748) Textures count (imported): 0
+[17:24:53.522168] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_test_03_river_Budka.fbx
+[17:24:53.525020] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.005"
+	numMeshes: 1
+	 addr: "000002767D282A20"
+	 name: "Plane.007"
+	 numVertices: "732"
+	 numFaces: "408"
+	
+	
+
+[17:24:53.525064] [Import] [info] (th=17748) File loaded successfully
+[17:24:53.525100] [Import] [info] (th=17748) Meshes count: 1
+[17:24:53.525218] [Import] [info] (th=17748) Materials count: 1
+[17:25:23.597757] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_test_03_river_Budka.fbx
+[17:25:23.600041] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.005"
+	numMeshes: 1
+	 addr: "000002767D284A00"
+	 name: "Plane.007"
+	 numVertices: "732"
+	 numFaces: "408"
+	
+	
+
+[17:25:23.600085] [Import] [info] (th=17748) File loaded successfully
+[17:25:23.600124] [Import] [info] (th=17748) Meshes count: 1
+[17:25:23.600370] [Import] [info] (th=17748) Materials count: 1
+[18:16:31.832804] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_test_03_riverStraw2.fbx
+[18:16:31.864205] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "River_straw"
+	numMeshes: 2
+	 addr: "000002767D2854A0"
+	 name: "Plane.039"
+	 numVertices: "13532"
+	 numFaces: "6996"
+	
+	 addr: "000002767D27FA50"
+	 name: "Plane.039"
+	 numVertices: "11051"
+	 numFaces: "5023"
+	
+	
+
+[18:16:31.864251] [Import] [info] (th=17748) File loaded successfully
+[18:16:31.864286] [Import] [info] (th=17748) Meshes count: 2
+[18:16:31.864326] [Import] [info] (th=17748) Materials count: 2
+[18:16:31.864439] [Import] [error] (th=17748) Can't find mesh for replace.
+[18:17:10.198315] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_test_03_riverStraw2.fbx
+[18:17:10.227990] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "River_straw"
+	numMeshes: 2
+	 addr: "000002767D282F70"
+	 name: "Plane.039"
+	 numVertices: "13532"
+	 numFaces: "6996"
+	
+	 addr: "000002751D0899B0"
+	 name: "Plane.039"
+	 numVertices: "11051"
+	 numFaces: "5023"
+	
+	
+
+[18:17:10.228037] [Import] [info] (th=17748) File loaded successfully
+[18:17:10.228071] [Import] [info] (th=17748) Meshes count: 2
+[18:17:10.228106] [Import] [info] (th=17748) Materials count: 2
+[18:17:10.228210] [Import] [error] (th=17748) Can't find mesh for replace.
+[18:19:12.323662] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_test_03_riverStraw2.fbx
+[18:19:12.352509] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "River_straw"
+	numMeshes: 2
+	 addr: "000002751D089F00"
+	 name: "Plane.039"
+	 numVertices: "13532"
+	 numFaces: "6996"
+	
+	 addr: "000002753BEB6470"
+	 name: "Plane.039"
+	 numVertices: "11051"
+	 numFaces: "5023"
+	
+	
+
+[18:19:12.352562] [Import] [info] (th=17748) File loaded successfully
+[18:19:12.352597] [Import] [info] (th=17748) Meshes count: 2
+[18:19:12.352632] [Import] [info] (th=17748) Materials count: 2
+[18:19:12.352800] [Import] [info] (th=17748) Textures count (imported): 0
+[18:19:33.234937] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_test_03_riverStraw2.fbx
+[18:19:33.259316] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "River_straw2"
+	numMeshes: 2
+	 addr: "00000276BE6BC110"
+	 name: "Plane.046"
+	 numVertices: "6210"
+	 numFaces: "3206"
+	
+	 addr: "00000276BE6BDBA0"
+	 name: "Plane.046"
+	 numVertices: "11051"
+	 numFaces: "5023"
+	
+	
+
+[18:19:33.259363] [Import] [info] (th=17748) File loaded successfully
+[18:19:33.259398] [Import] [info] (th=17748) Meshes count: 2
+[18:19:33.259432] [Import] [info] (th=17748) Materials count: 2
+[18:19:33.259595] [Import] [info] (th=17748) Textures count (imported): 0
+[18:20:20.020465] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_test_03_riverStraw2.fbx
+[18:20:20.062315] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "River_straw1"
+	numMeshes: 1
+	 addr: "00000276BE6BA680"
+	 name: "Plane.039"
+	 numVertices: "24583"
+	 numFaces: "12019"
+	
+	
+
+[18:20:20.062458] [Import] [info] (th=17748) File loaded successfully
+[18:20:20.062617] [Import] [info] (th=17748) Meshes count: 1
+[18:20:20.062770] [Import] [info] (th=17748) Materials count: 1
+[18:38:40.122981] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Rolling_stones.fbx
+[18:38:40.128141] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "Sphere"
+	numMeshes: 1
+	 addr: "00000276BE6BBBC0"
+	 name: "Sphere"
+	 numVertices: "348"
+	 numFaces: "350"
+	
+	
+	name: "Sphere.001"
+	numMeshes: 1
+	 addr: "00000276BE6BCBB0"
+	 name: "Sphere.001"
+	 numVertices: "352"
+	 numFaces: "350"
+	
+	
+	name: "Sphere.002"
+	numMeshes: 1
+	 addr: "00000276BE6BB120"
+	 name: "Sphere.002"
+	 numVertices: "410"
+	 numFaces: "444"
+	
+	
+
+[18:38:40.128184] [Import] [info] (th=17748) File loaded successfully
+[18:38:40.128219] [Import] [info] (th=17748) Meshes count: 3
+[18:38:40.128266] [Import] [info] (th=17748) Materials count: 1
+[18:38:40.128750] [Import] [info] (th=17748) Textures count (imported): 2
+[19:22:48.423371] [Import] [info] (th=17748) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_BlackBody.fbx
+[19:22:48.426176] [Import] [info] (th=17748) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "00000276BE6C0B70"
+	 name: "Cube.001"
+	 numVertices: "609"
+	 numFaces: "335"
+	
+	
+
+[19:22:48.426218] [Import] [info] (th=17748) File loaded successfully
+[19:22:48.426253] [Import] [info] (th=17748) Meshes count: 1
+[19:22:48.426287] [Import] [info] (th=17748) Materials count: 1
+[19:22:48.426435] [Import] [warning] (th=17748) It seems that scene structure is different

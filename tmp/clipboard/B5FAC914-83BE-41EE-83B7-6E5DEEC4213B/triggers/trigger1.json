@@ -1,0 +1,26 @@
+{
+    "@class": "CollisionTrigger",
+    "id": {
+        "uuid": "0BB0BFB5-C579-4C25-9F1B-F14199C4B5F9"
+    },
+    "ownerScriptId": {
+        "uuid": "1E8FF635-CF1E-4063-BDEA-F5A78BAAFE97"
+    },
+    "logicOperation": 0,
+    "resultType": 0,
+    "isInverted": false,
+    "eventType": "in",
+    "targetBindingLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "BCAA6B07-0838-433E-9631-EA039BA30FD1"
+        }
+    },
+    "zoneBindingLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "12C0498C-B85D-4884-A8C7-1AC152737ADE"
+        }
+    },
+    "allowed": false
+}

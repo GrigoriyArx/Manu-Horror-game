@@ -1,0 +1,25 @@
+[15:56:02.186454] [Import] [info] (th=24112) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_LONG_cave.fbx
+[15:56:02.189394] [Import] [info] (th=24112) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "0000013566207B30"
+	 name: "Cube.001"
+	 numVertices: "566"
+	 numFaces: "284"
+	
+	
+	name: "LongCave"
+	numMeshes: 1
+	 addr: "0000013566207090"
+	 name: "Cube.048"
+	 numVertices: "197"
+	 numFaces: "94"
+	
+	
+
+[15:56:02.189443] [Import] [info] (th=24112) File loaded successfully
+[15:56:02.189478] [Import] [info] (th=24112) Meshes count: 2
+[15:56:02.189514] [Import] [info] (th=24112) Materials count: 1
+[15:56:02.189670] [Import] [info] (th=24112) Textures count (imported): 0

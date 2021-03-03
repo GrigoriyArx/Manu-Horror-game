@@ -1,0 +1,467 @@
+[10:13:20.027148] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_T-pose.fbx
+[10:13:20.144116] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Tentacle2"
+	numMeshes: 1
+	 addr: "000001C6A2A74170"
+	 name: "Plane.001"
+	 numVertices: "838"
+	 numFaces: "1344"
+	
+	
+	name: "SuperArmature"
+	
+		name: "root"
+		
+			name: "Body_start"
+			
+				name: "Body.006"
+				
+					name: "Body.005"
+					
+						name: "Body.004"
+						
+							name: "Body.003"
+							
+								name: "Body.002"
+								
+									name: "Body.001"
+									
+
+[10:13:20.144229] [Import] [info] (th=15044) File loaded successfully
+[10:13:20.144347] [Import] [info] (th=15044) Meshes count: 1
+[10:13:20.144384] [Import] [info] (th=15044) Materials count: 1
+[10:13:20.204094] [Import] [info] (th=15044) Textures count (imported): 2
+[10:16:25.986834] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[10:16:26.010132] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "SuperArmature"
+	
+		name: "root"
+		
+			name: "Body_start"
+			
+				name: "Body.006"
+				
+					name: "Body.005"
+					
+						name: "Body.004"
+						
+							name: "Body.003"
+							
+								name: "Body.002"
+								
+									name: "Body.001"
+									
+
+[10:16:26.010225] [Import] [info] (th=15044) File loaded successfully
+[10:16:26.010267] [Import] [info] (th=15044) Meshes count: 0
+[10:16:26.010302] [Import] [info] (th=15044) Materials count: 0
+[10:19:14.975348] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_T-pose.fbx
+[10:19:14.979993] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Tentacle2"
+	numMeshes: 1
+	 addr: "000001C5609E2110"
+	 name: "Plane.001"
+	 numVertices: "838"
+	 numFaces: "1344"
+	
+	
+	name: "SuperArmature"
+	
+		name: "root"
+		
+			name: "Body_start"
+			
+				name: "Body.006"
+				
+					name: "Body.005"
+					
+						name: "Body.004"
+						
+							name: "Body.003"
+							
+								name: "Body.002"
+								
+									name: "Body.001"
+									
+
+[10:19:14.980041] [Import] [info] (th=15044) File loaded successfully
+[10:19:14.980087] [Import] [info] (th=15044) Meshes count: 1
+[10:19:14.980125] [Import] [info] (th=15044) Materials count: 1
+[10:19:14.980386] [Import] [info] (th=15044) Textures count (imported): 2
+[10:19:41.690743] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[10:19:41.694522] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "SuperArmature"
+	
+		name: "root"
+		
+			name: "Body_start"
+			
+				name: "Body.006"
+				
+					name: "Body.005"
+					
+						name: "Body.004"
+						
+							name: "Body.003"
+							
+								name: "Body.002"
+								
+									name: "Body.001"
+									
+
+[10:19:41.694616] [Import] [info] (th=15044) File loaded successfully
+[10:19:41.694681] [Import] [info] (th=15044) Meshes count: 0
+[10:19:41.694744] [Import] [info] (th=15044) Materials count: 0
+[12:13:14.806475] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[12:13:14.815049] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Ten_Arma"
+	
+		name: "root"
+		
+			name: "Body1"
+			
+				name: "Body2"
+				
+					name: "Body3"
+					
+						name: "Body4"
+						
+							name: "Body5"
+							
+								name: "Body6"
+								
+									name: "Body7"
+									
+										name: "Body8"
+										
+											name: "Body9"
+											
+												name: "Body10"
+												
+													name: "Body11"
+													
+														name: "Body12"
+														
+
+[12:13:14.815093] [Import] [info] (th=15044) File loaded successfully
+[12:13:14.815128] [Import] [info] (th=15044) Meshes count: 0
+[12:13:14.815165] [Import] [info] (th=15044) Materials count: 0
+[12:13:14.815208] [Import] [info] (th=15044) Textures count (imported): 0
+[12:13:24.818577] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_T-pose.fbx
+[12:13:24.824469] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Tentacle2.001"
+	numMeshes: 1
+	 addr: "000001C54BE69590"
+	 name: "Plane.002"
+	 numVertices: "838"
+	 numFaces: "1344"
+	
+	
+	name: "Ten_Arma"
+	
+		name: "root"
+		
+			name: "Body1"
+			
+				name: "Body2"
+				
+					name: "Body3"
+					
+						name: "Body4"
+						
+							name: "Body5"
+							
+								name: "Body6"
+								
+									name: "Body7"
+									
+										name: "Body8"
+										
+											name: "Body9"
+											
+												name: "Body10"
+												
+													name: "Body11"
+													
+														name: "Body12"
+														
+
+[12:13:24.824514] [Import] [info] (th=15044) File loaded successfully
+[12:13:24.824556] [Import] [info] (th=15044) Meshes count: 1
+[12:13:24.824595] [Import] [info] (th=15044) Materials count: 1
+[12:13:24.824867] [Import] [info] (th=15044) Textures count (imported): 2
+[12:14:48.993627] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[12:14:49.002000] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Ten_Arma"
+	
+		name: "root"
+		
+			name: "Body1"
+			
+				name: "Body2"
+				
+					name: "Body3"
+					
+						name: "Body4"
+						
+							name: "Body5"
+							
+								name: "Body6"
+								
+									name: "Body7"
+									
+										name: "Body8"
+										
+											name: "Body9"
+											
+												name: "Body10"
+												
+													name: "Body11"
+													
+														name: "Body12"
+														
+
+[12:14:49.002043] [Import] [info] (th=15044) File loaded successfully
+[12:14:49.002084] [Import] [info] (th=15044) Meshes count: 0
+[12:14:49.002123] [Import] [info] (th=15044) Materials count: 0
+[12:25:15.236394] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[12:25:15.244849] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "BezierCurve_rig"
+	
+		name: "PT01_01"
+		
+			name: "CT01_01_L"
+			
+			name: "CT01_01_R"
+			
+		name: "PT01_02"
+		
+			name: "CT01_02_L"
+			
+			name: "CT01_02_R"
+			
+		name: "PT01_03"
+		
+			name: "CT01_03_L"
+			
+			name: "CT01_03_R"
+			
+		name: "PT01_04"
+		
+			name: "CT01_04_L"
+			
+			name: "CT01_04_R"
+			
+
+[12:25:15.244923] [Import] [info] (th=15044) File loaded successfully
+[12:25:15.245036] [Import] [info] (th=15044) Meshes count: 0
+[12:25:15.245136] [Import] [info] (th=15044) Materials count: 0
+[12:25:15.246777] [Import] [error] (th=15044) Cannot find node: CT01_01_L
+[12:25:15.246859] [Import] [error] (th=15044) Cannot find node: CT01_01_R
+[12:25:15.246949] [Import] [error] (th=15044) Cannot find node: CT01_02_L
+[12:25:15.247067] [Import] [error] (th=15044) Cannot find node: CT01_02_R
+[12:25:15.247244] [Import] [error] (th=15044) Cannot find node: CT01_03_L
+[12:25:15.247358] [Import] [error] (th=15044) Cannot find node: CT01_03_R
+[12:25:15.247472] [Import] [error] (th=15044) Cannot find node: CT01_04_L
+[12:25:15.247587] [Import] [error] (th=15044) Cannot find node: CT01_04_R
+[12:25:15.247700] [Import] [error] (th=15044) Cannot find node: PT01_01
+[12:25:15.247772] [Import] [error] (th=15044) Cannot find node: PT01_02
+[12:25:15.247885] [Import] [error] (th=15044) Cannot find node: PT01_03
+[12:25:15.247955] [Import] [error] (th=15044) Cannot find node: PT01_04
+[12:25:15.247992] [Import] [error] (th=15044) File's animations are incompatible with the selected MANU's node
+[12:25:33.856116] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[12:25:33.863991] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Ten_Arma"
+	
+		name: "root"
+		
+			name: "Body1"
+			
+				name: "Body2"
+				
+					name: "Body3"
+					
+						name: "Body4"
+						
+							name: "Body5"
+							
+								name: "Body6"
+								
+									name: "Body7"
+									
+										name: "Body8"
+										
+											name: "Body9"
+											
+												name: "Body10"
+												
+													name: "Body11"
+													
+														name: "Body12"
+														
+
+[12:25:33.864035] [Import] [info] (th=15044) File loaded successfully
+[12:25:33.864069] [Import] [info] (th=15044) Meshes count: 0
+[12:25:33.864104] [Import] [info] (th=15044) Materials count: 0
+[12:45:45.851370] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[12:45:45.857021] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Ten_Arma"
+	
+		name: "root"
+		
+			name: "Body1"
+			
+				name: "Body2"
+				
+					name: "Body3"
+					
+						name: "Body4"
+						
+							name: "Body5"
+							
+								name: "Body6"
+								
+									name: "Body7"
+									
+										name: "Body8"
+										
+											name: "Body9"
+											
+												name: "Body10"
+												
+													name: "Body11"
+													
+														name: "Body12"
+														
+
+[12:45:45.857063] [Import] [info] (th=15044) File loaded successfully
+[12:45:45.857099] [Import] [info] (th=15044) Meshes count: 0
+[12:45:45.857154] [Import] [info] (th=15044) Materials count: 0
+[12:47:08.693597] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[12:47:08.703300] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Ten_Arma"
+	
+		name: "root"
+		
+			name: "Body1"
+			
+				name: "Body2"
+				
+					name: "Body3"
+					
+						name: "Body4"
+						
+							name: "Body5"
+							
+								name: "Body6"
+								
+									name: "Body7"
+									
+										name: "Body8"
+										
+											name: "Body9"
+											
+												name: "Body10"
+												
+													name: "Body11"
+													
+														name: "Body12"
+														
+
+[12:47:08.703398] [Import] [info] (th=15044) File loaded successfully
+[12:47:08.703481] [Import] [info] (th=15044) Meshes count: 0
+[12:47:08.703560] [Import] [info] (th=15044) Materials count: 0
+[13:00:41.483977] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_Search.fbx
+[13:00:41.492173] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Ten_Arma"
+	
+		name: "root"
+		
+			name: "Body1"
+			
+				name: "Body2"
+				
+					name: "Body3"
+					
+						name: "Body4"
+						
+							name: "Body5"
+							
+								name: "Body6"
+								
+									name: "Body7"
+									
+										name: "Body8"
+										
+											name: "Body9"
+											
+												name: "Body10"
+												
+													name: "Body11"
+													
+														name: "Body12"
+														
+
+[13:00:41.492217] [Import] [info] (th=15044) File loaded successfully
+[13:00:41.492251] [Import] [info] (th=15044) Meshes count: 0
+[13:00:41.492285] [Import] [info] (th=15044) Materials count: 0
+[13:11:19.373227] [Import] [info] (th=15044) Importing from E:\!FOR_ASSETS\PROPS\Tentacle\Tentacle_arrive.fbx
+[13:11:19.379480] [Import] [info] (th=15044) Imported scene tree:
+name: "RootNode"
+
+	name: "Ten_Arma"
+	
+		name: "root"
+		
+			name: "Body1"
+			
+				name: "Body2"
+				
+					name: "Body3"
+					
+						name: "Body4"
+						
+							name: "Body5"
+							
+								name: "Body6"
+								
+									name: "Body7"
+									
+										name: "Body8"
+										
+											name: "Body9"
+											
+												name: "Body10"
+												
+													name: "Body11"
+													
+														name: "Body12"
+														
+
+[13:11:19.379524] [Import] [info] (th=15044) File loaded successfully
+[13:11:19.379558] [Import] [info] (th=15044) Meshes count: 0
+[13:11:19.379620] [Import] [info] (th=15044) Materials count: 0

@@ -1,0 +1,137 @@
+[11:41:19.074447] [Import] [info] (th=16408) Log level for 'Import' set to 'info'
+[11:41:19.074537] [Import] [info] (th=16408) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\LightBugs\LightBugs_T-pose.fbx
+[11:41:19.126591] [Import] [info] (th=16408) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Bone"
+		
+			name: "Bone_end"
+			
+		name: "Bone.001"
+		
+			name: "Bone.001_end"
+			
+		name: "Bone.002"
+		
+			name: "Bone.002_end"
+			
+		name: "Bone.003"
+		
+			name: "Bone.003_end"
+			
+		name: "Bone.004"
+		
+			name: "Bone.004_end"
+			
+		name: "Bone.005"
+		
+			name: "Bone.005_end"
+			
+		name: "Bone.006"
+		
+			name: "Bone.006_end"
+			
+		name: "Bone.007"
+		
+			name: "Bone.007_end"
+			
+		name: "Bone.008"
+		
+			name: "Bone.008_end"
+			
+		name: "Bone.009"
+		
+			name: "Bone.009_end"
+			
+		name: "Bone.010"
+		
+			name: "Bone.010_end"
+			
+	name: "LightBugs"
+	numMeshes: 1
+	 addr: "000002A4225A0AC0"
+	 name: "Icosphere"
+	 numVertices: "600"
+	 numFaces: "200"
+	
+	
+
+[11:41:19.126639] [Import] [info] (th=16408) File loaded successfully
+[11:41:19.126674] [Import] [info] (th=16408) Meshes count: 1
+[11:41:19.126709] [Import] [info] (th=16408) Materials count: 1
+[11:41:19.126861] [Import] [info] (th=16408) Textures count (imported): 0
+[11:43:19.434033] [Import] [info] (th=16408) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\LightBugs\LightBugs_T-pose.fbx
+[11:43:19.437658] [Import] [info] (th=16408) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Bone"
+		
+		name: "Bone.001"
+		
+		name: "Bone.002"
+		
+		name: "Bone.003"
+		
+		name: "Bone.004"
+		
+		name: "Bone.005"
+		
+		name: "Bone.006"
+		
+		name: "Bone.007"
+		
+		name: "Bone.008"
+		
+		name: "Bone.009"
+		
+		name: "Bone.010"
+		
+	name: "LightBugs"
+	numMeshes: 1
+	 addr: "000002A4225A1560"
+	 name: "Icosphere"
+	 numVertices: "600"
+	 numFaces: "200"
+	
+	
+
+[11:43:19.437811] [Import] [info] (th=16408) File loaded successfully
+[11:43:19.437900] [Import] [info] (th=16408) Meshes count: 1
+[11:43:19.437944] [Import] [info] (th=16408) Materials count: 1
+[11:43:19.438065] [Import] [info] (th=16408) Textures count (imported): 0
+[11:45:06.146490] [Import] [info] (th=16408) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\LightBugs\Chaos_Fly.fbx
+[11:45:06.151522] [Import] [info] (th=16408) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Bone"
+		
+		name: "Bone.001"
+		
+		name: "Bone.002"
+		
+		name: "Bone.003"
+		
+		name: "Bone.004"
+		
+		name: "Bone.005"
+		
+		name: "Bone.006"
+		
+		name: "Bone.007"
+		
+		name: "Bone.008"
+		
+		name: "Bone.009"
+		
+		name: "Bone.010"
+		
+
+[11:45:06.151563] [Import] [info] (th=16408) File loaded successfully
+[11:45:06.151596] [Import] [info] (th=16408) Meshes count: 0
+[11:45:06.151629] [Import] [info] (th=16408) Materials count: 0
