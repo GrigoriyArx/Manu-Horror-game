@@ -1,0 +1,121 @@
+[16:53:16.404112] [Import] [info] (th=7076) Log level for 'Import' set to 'info'
+[16:53:16.435385] [Import] [info] (th=7076) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_04_HouseEnter.fbx
+[16:53:16.642256] [Import] [info] (th=7076) Imported scene tree:
+name: "RootNode"
+
+	name: "Bush1_nude.001"
+	numMeshes: 2
+	 addr: "000001D0D4B08B10"
+	 name: "Plane.011"
+	 numVertices: "12630"
+	 numFaces: "5946"
+	
+	 addr: "000001D0D4B07B20"
+	 name: "Plane.011"
+	 numVertices: "4806"
+	 numFaces: "2478"
+	
+	
+	name: "House_enter_LP"
+	numMeshes: 1
+	 addr: "000001D0D4B09060"
+	 name: "Cube.053"
+	 numVertices: "2330"
+	 numFaces: "1228"
+	
+	
+	name: "House_Exterior.004"
+	numMeshes: 1
+	 addr: "000001D0D4B065E0"
+	 name: "Cube.058"
+	 numVertices: "1790"
+	 numFaces: "952"
+	
+	
+	name: "Scene4_Front_Door"
+	numMeshes: 1
+	 addr: "000001D0D4B08070"
+	 name: "Cube.049"
+	 numVertices: "1686"
+	 numFaces: "1236"
+	
+	
+	name: "Scene4_Front_Door.001"
+	numMeshes: 1
+	 addr: "000001D0D4B095B0"
+	 name: "Cube.052"
+	 numVertices: "964"
+	 numFaces: "580"
+	
+	
+
+[16:53:16.642302] [Import] [info] (th=7076) File loaded successfully
+[16:53:16.642335] [Import] [info] (th=7076) Meshes count: 6
+[16:53:16.642369] [Import] [info] (th=7076) Materials count: 5
+[16:53:16.656348] [Import] [info] (th=7076) Textures count (imported): 2
+[16:55:10.168544] [Import] [info] (th=7076) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_04_HouseEnter.fbx
+[16:55:10.201223] [Import] [info] (th=7076) Imported scene tree:
+name: "RootNode"
+
+	name: "Bush1_nude.001"
+	numMeshes: 1
+	 addr: "000001D0D4B085C0"
+	 name: "Plane.011"
+	 numVertices: "17436"
+	 numFaces: "8424"
+	
+	
+	name: "House_enter_LP"
+	numMeshes: 1
+	 addr: "000001D0D4B075D0"
+	 name: "Cube.053"
+	 numVertices: "2330"
+	 numFaces: "1228"
+	
+	
+	name: "House_Exterior.004"
+	numMeshes: 1
+	 addr: "000001D0D4B06090"
+	 name: "Cube.058"
+	 numVertices: "1790"
+	 numFaces: "952"
+	
+	
+	name: "Scene4_Front_Door"
+	numMeshes: 1
+	 addr: "000001D0D4B06B30"
+	 name: "Cube.049"
+	 numVertices: "1686"
+	 numFaces: "1236"
+	
+	
+	name: "Scene4_Front_Door.001"
+	numMeshes: 1
+	 addr: "000001D0D4B0BAE0"
+	 name: "Cube.052"
+	 numVertices: "964"
+	 numFaces: "580"
+	
+	
+
+[16:55:10.201268] [Import] [info] (th=7076) File loaded successfully
+[16:55:10.201302] [Import] [info] (th=7076) Meshes count: 5
+[16:55:10.201335] [Import] [info] (th=7076) Materials count: 4
+[16:55:10.201771] [Import] [info] (th=7076) Textures count (imported): 2
+[17:09:08.960520] [Import] [info] (th=7076) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_04_HouseEnter_ground.fbx
+[17:09:08.964155] [Import] [info] (th=7076) Imported scene tree:
+name: "RootNode"
+
+	name: "House_enter_LP"
+	numMeshes: 1
+	 addr: "000001D0953F9840"
+	 name: "Cube.053"
+	 numVertices: "2330"
+	 numFaces: "1228"
+	
+	
+
+[17:09:08.964198] [Import] [info] (th=7076) File loaded successfully
+[17:09:08.964233] [Import] [info] (th=7076) Meshes count: 1
+[17:09:08.964267] [Import] [info] (th=7076) Materials count: 1
+[17:09:08.966940] [Import] [warning] (th=7076) It seems that scene structure is different
