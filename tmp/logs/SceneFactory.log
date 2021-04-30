@@ -81,3 +81,4 @@
 [16:52:31.887928] [SceneFactory] [info] (th=18940) Light is created: id: 8259A787-2AD5-4C8E-9782-2E86B49EBF7B
 [16:57:29.588649] [SceneFactory] [info] (th=18940) GhostObject is created: id: B710B3FA-266C-4EAA-8719-46FB430EE0FE
 [17:12:26.880389] [SceneFactory] [info] (th=18940) Light is created: id: BA893C24-418C-4459-9927-68E8A6626E53
+[09:19:33.564291] [SceneFactory] [info] (th=12020) Log level for 'SceneFactory' set to 'info'
