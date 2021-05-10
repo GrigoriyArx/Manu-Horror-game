@@ -1,0 +1,26 @@
+[12:32:26.874144] [Import] [info] (th=7008) Log level for 'Import' set to 'info'
+[12:32:26.874369] [Import] [info] (th=7008) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Room5.fbx
+[12:32:26.981439] [Import] [info] (th=7008) Imported scene tree:
+name: "RootNode"
+
+	name: "Room5_props"
+	numMeshes: 1
+	 addr: "00000149E63A2300"
+	 name: "Room5_props"
+	 numVertices: "12264"
+	 numFaces: "15936"
+	
+	
+	name: "Room5"
+	numMeshes: 1
+	 addr: "00000149E63A0870"
+	 name: "Room5.001"
+	 numVertices: "901"
+	 numFaces: "559"
+	
+	
+
+[12:32:26.981592] [Import] [info] (th=7008) File loaded successfully
+[12:32:26.981758] [Import] [info] (th=7008) Meshes count: 2
+[12:32:26.981808] [Import] [info] (th=7008) Materials count: 2
+[12:32:26.990254] [Import] [info] (th=7008) Textures count (imported): 0
