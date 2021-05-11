@@ -1,0 +1,492 @@
+[16:05:03.457760] [Import] [info] (th=7052) Log level for 'Import' set to 'info'
+[16:05:03.469078] [Import] [info] (th=7052) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\UI\Hints.fbx
+[16:05:03.572741] [Import] [info] (th=7052) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane"
+	numMeshes: 1
+	 addr: "00000248EA766960"
+	 name: "Plane"
+	 numVertices: "4"
+	 numFaces: "2"
+	
+	
+
+[16:05:03.572873] [Import] [info] (th=7052) File loaded successfully
+[16:05:03.572966] [Import] [info] (th=7052) Meshes count: 1
+[16:05:03.573066] [Import] [info] (th=7052) Materials count: 1
+[16:05:03.590957] [Import] [info] (th=7052) Textures count (imported): 1
+[16:45:50.082570] [Import] [info] (th=7052) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_BlackBody.fbx
+[16:45:50.427365] [Import] [info] (th=7052) Imported scene tree:
+name: "RootNode"
+
+	name: "Сhest_of_drawers.001"
+	numMeshes: 1
+	 addr: "00000248EA769930"
+	 name: "Cube.159"
+	 numVertices: "1287"
+	 numFaces: "1036"
+	
+	
+	name: "wardrobe"
+	numMeshes: 1
+	 addr: "00000248EA769E80"
+	 name: "Cube.001"
+	 numVertices: "594"
+	 numFaces: "410"
+	
+	
+		name: "wardrobe_door.L"
+		numMeshes: 1
+		 addr: "00000248EA767950"
+		 name: "Cube.157"
+		 numVertices: "320"
+		 numFaces: "196"
+		
+		
+		name: "wardrobe_door.R"
+		numMeshes: 1
+		 addr: "00000248EA76AE70"
+		 name: "Cube.156"
+		 numVertices: "320"
+		 numFaces: "196"
+		
+		
+	name: "Door_Cracked.001"
+	numMeshes: 1
+	 addr: "00000248EA763990"
+	 name: "Cube.155"
+	 numVertices: "688"
+	 numFaces: "588"
+	
+	
+	name: "Door_Cracked.002"
+	numMeshes: 1
+	 addr: "00000246ED30D210"
+	 name: "Cube.154"
+	 numVertices: "399"
+	 numFaces: "337"
+	
+	
+	name: "Chair.004"
+	numMeshes: 1
+	 addr: "00000249085EA800"
+	 name: "Chair.001_Cube.006"
+	 numVertices: "2847"
+	 numFaces: "2724"
+	
+	
+	name: "Bra_handler.001"
+	numMeshes: 1
+	 addr: "00000249085E9810"
+	 name: "Sphere.013"
+	 numVertices: "1092"
+	 numFaces: "1266"
+	
+	
+		name: "Bra_lamp"
+		numMeshes: 1
+		 addr: "00000249085E92C0"
+		 name: "Sphere.011"
+		 numVertices: "53"
+		 numFaces: "72"
+		
+		
+		name: "Bra_plafon"
+		numMeshes: 1
+		 addr: "00000249085E9D60"
+		 name: "Sphere.009"
+		 numVertices: "212"
+		 numFaces: "288"
+		
+		
+	name: "Bra_handler.002"
+	numMeshes: 1
+	 addr: "00000249085EAD50"
+	 name: "Sphere.012"
+	 numVertices: "1092"
+	 numFaces: "1266"
+	
+	
+		name: "Bra_lamp.001"
+		numMeshes: 1
+		 addr: "00000249085EA2B0"
+		 name: "Sphere.010"
+		 numVertices: "53"
+		 numFaces: "72"
+		
+		
+		name: "Bra_plafon.001"
+		numMeshes: 1
+		 addr: "00000249085EB2A0"
+		 name: "Sphere.008"
+		 numVertices: "212"
+		 numFaces: "288"
+		
+		
+	name: "Scene4_room1_props"
+	numMeshes: 1
+	 addr: "00000249085EB7F0"
+	 name: "Cube.047"
+	 numVertices: "15375"
+	 numFaces: "21145"
+	
+	
+	name: "Scene4_room1"
+	numMeshes: 1
+	 addr: "00000249085E8820"
+	 name: "Cube.085"
+	 numVertices: "6977"
+	 numFaces: "4219"
+	
+	
+	name: "Scene4_room2"
+	numMeshes: 1
+	 addr: "00000249085EBD40"
+	 name: "Cube.056"
+	 numVertices: "4567"
+	 numFaces: "2609"
+	
+	
+	name: "Scene4_room2_props"
+	numMeshes: 1
+	 addr: "00000249085EC290"
+	 name: "meshId0_name.003"
+	 numVertices: "17430"
+	 numFaces: "25250"
+	
+	
+	name: "Scene4_room2.001"
+	numMeshes: 1
+	 addr: "00000249085E82D0"
+	 name: "Cube.051"
+	 numVertices: "176"
+	 numFaces: "168"
+	
+	
+	name: "Helic"
+	numMeshes: 1
+	 addr: "00000249085EC7E0"
+	 name: "Plane.021"
+	 numVertices: "2276"
+	 numFaces: "2194"
+	
+	
+	name: "Room3"
+	numMeshes: 1
+	 addr: "00000249085ED7D0"
+	 name: "Cube.169"
+	 numVertices: "10631"
+	 numFaces: "6119"
+	
+	
+	name: "Bush1_nude.008"
+	numMeshes: 1
+	 addr: "00000249085EDD20"
+	 name: "Plane.048"
+	 numVertices: "1146"
+	 numFaces: "550"
+	
+	
+	name: "Room5_props"
+	numMeshes: 1
+	 addr: "00000249085EE270"
+	 name: "Room5_props"
+	 numVertices: "7835"
+	 numFaces: "7456"
+	
+	
+	name: "Room5_props.001"
+	numMeshes: 1
+	 addr: "00000249085EE7C0"
+	 name: "Room5_props.001"
+	 numVertices: "990"
+	 numFaces: "1696"
+	
+	
+	name: "Room5"
+	numMeshes: 1
+	 addr: "00000249085EED10"
+	 name: "Room5.002"
+	 numVertices: "901"
+	 numFaces: "559"
+	
+	
+	name: "House_Exterior.003"
+	numMeshes: 1
+	 addr: "00000249085EF260"
+	 name: "Cube.108"
+	 numVertices: "286"
+	 numFaces: "166"
+	
+	
+	name: "Room4"
+	numMeshes: 1
+	 addr: "00000249085E8D70"
+	 name: "Cube.160"
+	 numVertices: "654"
+	 numFaces: "428"
+	
+	
+	name: "Room5.001"
+	numMeshes: 1
+	 addr: "00000249085EFD00"
+	 name: "Room5.003"
+	 numVertices: "901"
+	 numFaces: "559"
+	
+	
+	name: "House_enter_LP"
+	numMeshes: 1
+	 addr: "00000249088722A0"
+	 name: "Cube.053"
+	 numVertices: "2329"
+	 numFaces: "1228"
+	
+	
+	name: "House_Exterior.004"
+	numMeshes: 1
+	 addr: "00000249088757C0"
+	 name: "Cube.058"
+	 numVertices: "1790"
+	 numFaces: "952"
+	
+	
+	name: "Scene4_Front_Door"
+	numMeshes: 1
+	 addr: "000002490886E830"
+	 name: "Cube.049"
+	 numVertices: "1686"
+	 numFaces: "1236"
+	
+	
+	name: "Scene4_Front_Door.001"
+	numMeshes: 1
+	 addr: "0000024908873290"
+	 name: "Cube.052"
+	 numVertices: "964"
+	 numFaces: "580"
+	
+	
+	name: "Origin_set"
+	numMeshes: 1
+	 addr: "000002490886ED80"
+	 name: "Plane.013"
+	 numVertices: "103"
+	 numFaces: "78"
+	
+	
+		name: "Text"
+		numMeshes: 1
+		 addr: "0000024908870810"
+		 name: "Text"
+		 numVertices: "397"
+		 numFaces: "238"
+		
+		
+		name: "Text.001"
+		numMeshes: 1
+		 addr: "00000249088737E0"
+		 name: "Text.001"
+		 numVertices: "509"
+		 numFaces: "314"
+		
+		
+		name: "Text.002"
+		numMeshes: 1
+		 addr: "000002490886F2D0"
+		 name: "Text.002"
+		 numVertices: "640"
+		 numFaces: "403"
+		
+		
+		name: "Text.003"
+		numMeshes: 1
+		 addr: "000002490886F820"
+		 name: "Text.003"
+		 numVertices: "693"
+		 numFaces: "425"
+		
+		
+		name: "Text.004"
+		numMeshes: 1
+		 addr: "0000024908875D10"
+		 name: "Text.004"
+		 numVertices: "303"
+		 numFaces: "198"
+		
+		
+		name: "Text.006"
+		numMeshes: 1
+		 addr: "0000024908871800"
+		 name: "Text.006"
+		 numVertices: "392"
+		 numFaces: "237"
+		
+		
+		name: "Text.007"
+		numMeshes: 1
+		 addr: "000002490886FD70"
+		 name: "Text.007"
+		 numVertices: "350"
+		 numFaces: "218"
+		
+		
+		name: "Text.008"
+		numMeshes: 1
+		 addr: "0000024908873D30"
+		 name: "Text.008"
+		 numVertices: "397"
+		 numFaces: "238"
+		
+		
+		name: "Text.009"
+		numMeshes: 1
+		 addr: "0000024908870D60"
+		 name: "Text.009"
+		 numVertices: "356"
+		 numFaces: "220"
+		
+		
+		name: "Text.010"
+		numMeshes: 1
+		 addr: "0000024908872D40"
+		 name: "Text.010"
+		 numVertices: "522"
+		 numFaces: "325"
+		
+		
+		name: "Text.011"
+		numMeshes: 1
+		 addr: "00000249088712B0"
+		 name: "Text.011"
+		 numVertices: "309"
+		 numFaces: "200"
+		
+		
+		name: "Text.005"
+		numMeshes: 1
+		 addr: "0000024908874D20"
+		 name: "Text.005"
+		 numVertices: "540"
+		 numFaces: "331"
+		
+		
+		name: "Text.012"
+		numMeshes: 1
+		 addr: "0000024908875270"
+		 name: "Text.012"
+		 numVertices: "604"
+		 numFaces: "381"
+		
+		
+	name: "Scene_part1"
+	numMeshes: 1
+	 addr: "00000248E9FBF590"
+	 name: "Cube.171"
+	 numVertices: "762"
+	 numFaces: "543"
+	
+	
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "00000248E9FC0580"
+	 name: "Cube.168"
+	 numVertices: "712"
+	 numFaces: "391"
+	
+	
+	name: "Scene_part2"
+	numMeshes: 1
+	 addr: "00000248E9FBDB00"
+	 name: "Cube.167"
+	 numVertices: "1029"
+	 numFaces: "940"
+	
+	
+	name: "LongCave"
+	numMeshes: 1
+	 addr: "00000248E9FC2560"
+	 name: "Cube.166"
+	 numVertices: "149"
+	 numFaces: "70"
+	
+	
+	name: "RockGround_1_LP"
+	numMeshes: 1
+	 addr: "00000248E9FC3550"
+	 name: "Cube.165"
+	 numVertices: "5331"
+	 numFaces: "5496"
+	
+	
+	name: "RockGround_2_LP"
+	numMeshes: 1
+	 addr: "00000248E9FC3AA0"
+	 name: "Cube.164"
+	 numVertices: "9373"
+	 numFaces: "7109"
+	
+	
+	name: "Pierse"
+	numMeshes: 1
+	 addr: "00000248E9FBFAE0"
+	 name: "Plane.024"
+	 numVertices: "1190"
+	 numFaces: "638"
+	
+	
+	name: "RockGround_3_LP"
+	numMeshes: 1
+	 addr: "00000248E9FC0030"
+	 name: "Cube.163"
+	 numVertices: "3368"
+	 numFaces: "3657"
+	
+	
+	name: "Scene_Bath"
+	numMeshes: 1
+	 addr: "00000248E9FC2AB0"
+	 name: "Cube.162"
+	 numVertices: "1368"
+	 numFaces: "806"
+	
+	
+	name: "House_enter"
+	numMeshes: 1
+	 addr: "00000248E9FC4540"
+	 name: "Cube.161"
+	 numVertices: "74"
+	 numFaces: "107"
+	
+	
+	name: "Scene1_props"
+	numMeshes: 1
+	 addr: "00000248E9FBD5B0"
+	 name: "Cube.172"
+	 numVertices: "3663"
+	 numFaces: "4928"
+	
+	
+
+[16:45:50.427448] [Import] [info] (th=7052) File loaded successfully
+[16:45:50.427699] [Import] [info] (th=7052) Meshes count: 56
+[16:45:50.427839] [Import] [info] (th=7052) Materials count: 31
+[16:45:50.437088] [Import] [warning] (th=7052) It seems that scene structure is different
+[16:46:14.400489] [Import] [info] (th=7052) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_BlackBody.fbx
+[16:46:14.402831] [Import] [info] (th=7052) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "00000248E9FC0AD0"
+	 name: "Cube.168"
+	 numVertices: "712"
+	 numFaces: "391"
+	
+	
+
+[16:46:14.402879] [Import] [info] (th=7052) File loaded successfully
+[16:46:14.402914] [Import] [info] (th=7052) Meshes count: 1
+[16:46:14.402949] [Import] [info] (th=7052) Materials count: 1
+[16:46:14.403093] [Import] [warning] (th=7052) It seems that scene structure is different

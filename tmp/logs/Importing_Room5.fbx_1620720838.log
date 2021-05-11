@@ -1,0 +1,135 @@
+[11:13:58.175885] [Import] [info] (th=16164) Log level for 'Import' set to 'info'
+[11:13:58.194172] [Import] [info] (th=16164) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Room5\Room5.fbx
+[11:13:58.351412] [Import] [info] (th=16164) Imported scene tree:
+name: "RootNode"
+
+	name: "Room5"
+	numMeshes: 1
+	 addr: "000002236AD4BE40"
+	 name: "Room5.001"
+	 numVertices: "901"
+	 numFaces: "559"
+	
+	
+
+[11:13:58.351462] [Import] [info] (th=16164) File loaded successfully
+[11:13:58.351501] [Import] [info] (th=16164) Meshes count: 1
+[11:13:58.351539] [Import] [info] (th=16164) Materials count: 1
+[11:13:58.352128] [Import] [warning] (th=16164) It seems that scene structure is different
+[11:14:12.333076] [Import] [info] (th=16164) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Room5\Room5_props.fbx
+[11:14:12.386701] [Import] [info] (th=16164) Imported scene tree:
+name: "RootNode"
+
+	name: "Room5_props"
+	numMeshes: 1
+	 addr: "000002236AD4CE30"
+	 name: "Room5_props"
+	 numVertices: "7835"
+	 numFaces: "7456"
+	
+	
+
+[11:14:12.386752] [Import] [info] (th=16164) File loaded successfully
+[11:14:12.386798] [Import] [info] (th=16164) Meshes count: 1
+[11:14:12.386944] [Import] [info] (th=16164) Materials count: 1
+[11:14:12.387208] [Import] [warning] (th=16164) It seems that scene structure is different
+[11:14:26.802423] [Import] [info] (th=16164) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Room5\Room5_curtains.fbx
+[11:14:26.844792] [Import] [info] (th=16164) Imported scene tree:
+name: "RootNode"
+
+	name: "Room5_props.001"
+	numMeshes: 1
+	 addr: "000002236AD4C390"
+	 name: "Room5_props.001"
+	 numVertices: "990"
+	 numFaces: "1696"
+	
+	
+
+[11:14:26.844865] [Import] [info] (th=16164) File loaded successfully
+[11:14:26.844925] [Import] [info] (th=16164) Meshes count: 1
+[11:14:26.844981] [Import] [info] (th=16164) Materials count: 1
+[11:14:26.870579] [Import] [info] (th=16164) Textures count (imported): 1
+[13:47:38.775894] [Import] [info] (th=16164) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\House_BlackBody.fbx
+[13:47:38.984991] [Import] [info] (th=16164) Imported scene tree:
+name: "RootNode"
+
+	name: "House_Exterior.003"
+	numMeshes: 1
+	 addr: "0000022557BB2010"
+	 name: "Cube.108"
+	 numVertices: "286"
+	 numFaces: "166"
+	
+	
+
+[13:47:38.985988] [Import] [info] (th=16164) File loaded successfully
+[13:47:38.986032] [Import] [info] (th=16164) Meshes count: 1
+[13:47:38.986070] [Import] [info] (th=16164) Materials count: 1
+[13:49:38.210452] [Import] [info] (th=16164) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_BlackBody.fbx
+[13:49:38.240629] [Import] [info] (th=16164) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "0000022557BB3550"
+	 name: "Cube.168"
+	 numVertices: "712"
+	 numFaces: "391"
+	
+	
+
+[13:49:38.241136] [Import] [info] (th=16164) File loaded successfully
+[13:49:38.241172] [Import] [info] (th=16164) Meshes count: 1
+[13:49:38.241209] [Import] [info] (th=16164) Materials count: 1
+[13:49:38.241355] [Import] [warning] (th=16164) It seems that scene structure is different
+[13:49:51.067607] [Import] [info] (th=16164) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene1\Scene_1.fbx
+[13:49:51.093294] [Import] [info] (th=16164) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_part1"
+	numMeshes: 1
+	 addr: "0000022557BB0580"
+	 name: "Cube.171"
+	 numVertices: "762"
+	 numFaces: "543"
+	
+	
+
+[13:49:51.093339] [Import] [info] (th=16164) File loaded successfully
+[13:49:51.093375] [Import] [info] (th=16164) Meshes count: 1
+[13:49:51.093414] [Import] [info] (th=16164) Materials count: 1
+[13:49:51.093563] [Import] [warning] (th=16164) It seems that scene structure is different
+[13:50:06.943280] [Import] [info] (th=16164) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Room5\Room5_props.fbx
+[13:50:07.005759] [Import] [info] (th=16164) Imported scene tree:
+name: "RootNode"
+
+	name: "Room5_props"
+	numMeshes: 1
+	 addr: "0000022557BAEAF0"
+	 name: "Room5_props"
+	 numVertices: "7835"
+	 numFaces: "7456"
+	
+	
+
+[13:50:07.005807] [Import] [info] (th=16164) File loaded successfully
+[13:50:07.005843] [Import] [info] (th=16164) Meshes count: 1
+[13:50:07.005879] [Import] [info] (th=16164) Materials count: 1
+[13:50:49.544202] [Import] [info] (th=16164) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene1\Scene_1_props.fbx
+[13:50:49.596070] [Import] [info] (th=16164) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene1_props"
+	numMeshes: 1
+	 addr: "0000022557BB2560"
+	 name: "Cube.172"
+	 numVertices: "3663"
+	 numFaces: "4928"
+	
+	
+
+[13:50:49.596116] [Import] [info] (th=16164) File loaded successfully
+[13:50:49.596159] [Import] [info] (th=16164) Meshes count: 1
+[13:50:49.596194] [Import] [info] (th=16164) Materials count: 1
+[13:50:49.596341] [Import] [warning] (th=16164) It seems that scene structure is different

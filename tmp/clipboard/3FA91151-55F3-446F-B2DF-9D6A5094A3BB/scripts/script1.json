@@ -1,0 +1,78 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "78F7E801-36CE-4365-81A1-9DBF0D489056"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "5D54DF8B-2E61-40F7-874B-09B32A93FB95"
+                },
+                "name": "Switcher",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "5D79B614-90FB-48A7-838A-3F8F2041554F"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 4,
+                        "name": "Hints",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 4,
+                            "name": "Open"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "DCF2ABBC-F4CC-46E6-B935-8CB4EC965F15"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "EDA7D29F-E430-4C17-BBCC-C45D43B05B3C"
+            },
+            "ownerScriptId": {
+                "uuid": "78F7E801-36CE-4365-81A1-9DBF0D489056"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "inside",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "B2170EB5-1DCB-4BCB-B239-768061E6F0CE"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "4E29795A-8D33-4B6A-A625-B8DB7054A064"
+                }
+            }
+        }
+    ]
+}

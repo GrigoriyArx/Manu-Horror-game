@@ -1,0 +1,69 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "BDA1DCCD-24F7-4623-B433-07CF132BDBB3"
+            },
+            "name": "Switch Animation 1",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "0EB7B059-FDDA-4ACA-A2E2-5EC2F0289598"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        4.991462230682373,
+                        -7.787927150726318,
+                        0.0,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]

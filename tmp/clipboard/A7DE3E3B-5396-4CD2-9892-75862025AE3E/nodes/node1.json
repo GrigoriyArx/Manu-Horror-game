@@ -1,0 +1,69 @@
+[
+    {
+        "@class": "BaseNode",
+        "object3D": {
+            "@class": "BaseObject3D",
+            "id": {
+                "uuid": "026A6B04-0428-4614-A622-356A7DBBF5C6"
+            },
+            "name": "Swither_hint_ON",
+            "enabled": true,
+            "visible": true,
+            "hitVisible": true,
+            "timeline": {
+                "@class": "BaseComponentTimeline",
+                "timelineId": {
+                    "uuid": "971B83DE-8033-412C-9458-6A67513902CE"
+                }
+            },
+            "transform": {
+                "@class": "BaseComponentTransformable",
+                "localTransforms": {
+                    "values": [
+                        0.9999996423721314,
+                        -9.905706477297827e-9,
+                        0.0,
+                        0.0,
+                        9.905703812762568e-9,
+                        0.9999998807907105,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.9999998807907105,
+                        0.0,
+                        1.7402498722076417,
+                        -13.881370544433594,
+                        -3.3019189834594728,
+                        1.0
+                    ]
+                },
+                "globalTransforms": {
+                    "values": [
+                        1.0,
+                        8.881784197001253e-16,
+                        0.0,
+                        0.0,
+                        -8.881784197001253e-16,
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.0,
+                        4.991462230682373,
+                        -7.787927627563477,
+                        -2.384185791015625e-7,
+                        1.0
+                    ]
+                }
+            },
+            "metadata": {
+                "importedIdentifier": "",
+                "importedName": "",
+                "isBone": false
+            }
+        }
+    }
+]

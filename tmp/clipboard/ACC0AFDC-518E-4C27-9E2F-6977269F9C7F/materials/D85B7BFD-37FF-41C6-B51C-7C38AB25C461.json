@@ -1,0 +1,135 @@
+{
+    "@class": "Material",
+    "id": {
+        "uuid": "D85B7BFD-37FF-41C6-B51C-7C38AB25C461"
+    },
+    "name": "Room5",
+    "renderingType": "opaque",
+    "blendingType": "normal",
+    "detailType": "none",
+    "lightningType": "perPixel",
+    "colorsType": "no",
+    "shadingType": "pbr",
+    "sideType": "front",
+    "depthType": "default",
+    "ambient": {
+        "values": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "diffuse": {
+        "values": [
+            0.9035454392433167,
+            0.9035454392433167,
+            0.9035454392433167
+        ]
+    },
+    "specular": {
+        "values": [
+            0.9035454392433167,
+            0.9035454392433167,
+            0.9035454392433167
+        ]
+    },
+    "emissive": {
+        "values": [
+            0.0,
+            0.0,
+            0.0
+        ]
+    },
+    "rimColor": {
+        "values": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "opacity": 1.0,
+    "shininess": 25.0,
+    "metalness": 1.0,
+    "roughness": 1.0,
+    "refraction": 0.5,
+    "rimIntensity": 1.0,
+    "bloomThreshold": 0.949999988079071,
+    "normalScale": 1.0,
+    "heightScale": 1.0,
+    "diffuseMap": {
+        "uuid": "F4B62823-9111-498D-A4A4-0490130E6F9E"
+    },
+    "normalMap": {
+        "uuid": "B67DE611-3C2A-409F-BC13-578C98F787E2"
+    },
+    "specularMap": {
+        "uuid": "00000000-0000-0000-0000-000000000003"
+    },
+    "emissiveMap": {
+        "uuid": "2CFCFEE2-7EB9-40A6-9DBD-1A0E0E99B3A2"
+    },
+    "heightMap": {
+        "uuid": "00000000-0000-0000-0000-000000000004"
+    },
+    "alphaMap": {
+        "uuid": "00000000-0000-0000-0000-000000000001"
+    },
+    "occlusionMap": {
+        "uuid": "50CCE56E-F801-4DD3-8C1E-220865484754"
+    },
+    "roughnessMap": {
+        "uuid": "00000000-0000-0000-0000-000000000008"
+    },
+    "metalnessMap": {
+        "uuid": "00000000-0000-0000-0000-000000000007"
+    },
+    "envMap": {
+        "uuid": "00000000-0000-0000-0000-000000000009"
+    },
+    "irrEnvMap": {
+        "uuid": "00000000-0000-0000-0000-000000000010"
+    },
+    "cubemapSize": 256,
+    "cubemapUpdateSpeed": -1,
+    "tilingOffset": {
+        "values": [
+            1.0,
+            1.0,
+            0.0,
+            0.0
+        ]
+    },
+    "toonGlare": {
+        "values": [
+            1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "toonGradient": {
+        "@class": "StdListVector3",
+        "list": [
+            {
+                "values": [
+                    0.25,
+                    0.25,
+                    0.25
+                ]
+            },
+            {
+                "values": [
+                    0.6000000238418579,
+                    0.6000000238418579,
+                    0.6000000238418579
+                ]
+            },
+            {
+                "values": [
+                    1.0,
+                    1.0,
+                    1.0
+                ]
+            }
+        ]
+    }
+}
