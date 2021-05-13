@@ -95,3 +95,4 @@
 [13:44:34.226931] [SceneFactory] [info] (th=22124) Plane is created: id: F1DCA3C0-1054-494E-8D58-B76C29627F08
 [13:47:51.544799] [SceneFactory] [info] (th=22124) Plane is created: id: 573D436A-C5F6-4C86-A5D9-8BDA77ED8B1C
 [16:56:06.240950] [SceneFactory] [info] (th=22124) GhostObject is created: id: B6E37751-D127-48DA-8AB6-F9B55FED4243
+[12:01:57.220289] [SceneFactory] [info] (th=20556) Log level for 'SceneFactory' set to 'info'
