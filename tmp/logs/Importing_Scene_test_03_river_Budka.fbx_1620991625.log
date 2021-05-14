@@ -1,0 +1,18 @@
+[14:27:05.979895] [Import] [info] (th=13116) Log level for 'Import' set to 'info'
+[14:27:06.023649] [Import] [info] (th=13116) Importing from E:\!_WORK\GAMEdev\Manu\MyGame\Scenes\Scene_test_03_river_Budka.fbx
+[14:27:06.156124] [Import] [info] (th=13116) Imported scene tree:
+name: "RootNode"
+
+	name: "Pierse"
+	numMeshes: 1
+	 addr: "0000021C9F08F5D0"
+	 name: "Plane.024"
+	 numVertices: "1190"
+	 numFaces: "638"
+	
+	
+
+[14:27:06.156208] [Import] [info] (th=13116) File loaded successfully
+[14:27:06.156346] [Import] [info] (th=13116) Meshes count: 1
+[14:27:06.156411] [Import] [info] (th=13116) Materials count: 1
+[14:27:06.157274] [Import] [warning] (th=13116) It seems that scene structure is different

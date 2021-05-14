@@ -96,3 +96,10 @@
 [13:47:51.544799] [SceneFactory] [info] (th=22124) Plane is created: id: 573D436A-C5F6-4C86-A5D9-8BDA77ED8B1C
 [16:56:06.240950] [SceneFactory] [info] (th=22124) GhostObject is created: id: B6E37751-D127-48DA-8AB6-F9B55FED4243
 [12:01:57.220289] [SceneFactory] [info] (th=20556) Log level for 'SceneFactory' set to 'info'
+[15:34:03.831042] [SceneFactory] [info] (th=9856) Log level for 'SceneFactory' set to 'info'
+[15:39:01.236498] [SceneFactory] [info] (th=9856) GhostObject is created: id: 13EC4397-7518-4451-ADC9-5DEB87C536E6
+[17:10:20.645562] [SceneFactory] [info] (th=20052) Log level for 'SceneFactory' set to 'info'
+[10:24:59.590126] [SceneFactory] [info] (th=2264) Log level for 'SceneFactory' set to 'info'
+[10:24:59.591479] [SceneFactory] [info] (th=2264) GhostObject is created: id: 539D9494-416B-484F-A217-59CFADC7B725
+[11:49:58.445762] [SceneFactory] [info] (th=23452) Log level for 'SceneFactory' set to 'info'
+[14:27:05.977705] [SceneFactory] [info] (th=13116) Log level for 'SceneFactory' set to 'info'
