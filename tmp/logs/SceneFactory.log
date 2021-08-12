@@ -118,3 +118,9 @@
 [13:07:05.630008] [SceneFactory] [info] (th=2860) Log level for 'SceneFactory' set to 'info'
 [11:03:57.677308] [SceneFactory] [info] (th=6196) Log level for 'SceneFactory' set to 'info'
 [11:14:20.359923] [SceneFactory] [info] (th=6196) Box is created: id: AD8EFE5C-0A8B-42A1-B7EE-061AAF36E666
+[14:48:54.915306] [SceneFactory] [info] (th=5288) Log level for 'SceneFactory' set to 'info'
+[12:40:22.394860] [SceneFactory] [info] (th=7712) Log level for 'SceneFactory' set to 'info'
+[12:56:43.472975] [SceneFactory] [info] (th=7712) GhostObject is created: id: 08E4CC1F-F036-4673-B182-17CD3C2040E6
+[13:26:37.192569] [SceneFactory] [info] (th=7712) Light is created: id: 28A73388-40F5-4985-A8A8-E183099BFEFD
+[16:33:59.391586] [SceneFactory] [info] (th=7732) Log level for 'SceneFactory' set to 'info'
+[11:05:02.124410] [SceneFactory] [info] (th=7404) Log level for 'SceneFactory' set to 'info'
