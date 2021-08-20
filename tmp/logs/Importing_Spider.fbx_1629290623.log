@@ -1,0 +1,351 @@
+[15:43:43.529951] [Import] [info] (th=7208) Log level for 'Import' set to 'info'
+[15:43:43.529951] [Import] [info] (th=7208) Importing from E:\Users\Chris\Downloads\MANU-1.1.0-alpha\Assets\1. The Curse Assets\Animals by quaternius\Spider\Spider.fbx
+[15:43:43.580954] [Import] [info] (th=7208) Imported scene tree:
+name: "RootNode"
+
+	name: "SpiderArmature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "FrontLeg.L"
+				
+					name: "FrontLeg2.L"
+					
+						name: "FrontLeg3.L"
+						
+							name: "FrontLeg3.L_end"
+							
+								name: "FrontLeg3.L_end_end"
+								
+				name: "MidFrontLeg.L"
+				
+					name: "MidFrontLeg2.L"
+					
+						name: "MidFrontLeg3.L"
+						
+							name: "MidFrontLeg3.L_end"
+							
+								name: "MidFrontLeg3.L_end_end"
+								
+				name: "BackLeg.L"
+				
+					name: "BackLeg2.L"
+					
+						name: "BackLeg3.L"
+						
+							name: "BackLeg3.L_end"
+							
+								name: "BackLeg3.L_end_end"
+								
+				name: "MidBackLeg.L"
+				
+					name: "MidBackLeg2.L"
+					
+						name: "MidBackLeg3.L"
+						
+							name: "MidBackLeg3.L_end"
+							
+								name: "MidBackLeg3.L_end_end"
+								
+				name: "FrontLeg.R"
+				
+					name: "FrontLeg2.R"
+					
+						name: "FrontLeg3.R"
+						
+							name: "FrontLeg3.R_end"
+							
+								name: "FrontLeg3.R_end_end"
+								
+				name: "MidFrontLeg.R"
+				
+					name: "MidFrontLeg2.R"
+					
+						name: "MidFrontLeg3.R"
+						
+							name: "MidFrontLeg3.R_end"
+							
+								name: "MidFrontLeg3.R_end_end"
+								
+				name: "BackLeg.R"
+				
+					name: "BackLeg2.R"
+					
+						name: "BackLeg3.R"
+						
+							name: "BackLeg3.R_end"
+							
+								name: "BackLeg3.R_end_end"
+								
+				name: "MidBackLeg.R"
+				
+					name: "MidBackLeg2.R"
+					
+						name: "MidBackLeg3.R"
+						
+							name: "MidBackLeg3.R_end"
+							
+								name: "MidBackLeg3.R_end_end"
+								
+				name: "Abdomen"
+				
+					name: "Abdomen_end"
+					
+						name: "Abdomen_end_end"
+						
+				name: "Thorax"
+				
+					name: "Head"
+					
+						name: "Head_end"
+						
+							name: "Head_end_end"
+							
+			name: "PoleTarget.L"
+			
+				name: "PoleTarget.L_end"
+				
+					name: "PoleTarget.L_end_end"
+					
+			name: "FrontFoot.L"
+			
+				name: "FrontFoot.L_end"
+				
+					name: "FrontFoot.L_end_end"
+					
+			name: "MidFrontFoot.L"
+			
+				name: "MidFrontFoot.L_end"
+				
+					name: "MidFrontFoot.L_end_end"
+					
+			name: "BackFoot.L"
+			
+				name: "BackFoot.L_end"
+				
+					name: "BackFoot.L_end_end"
+					
+			name: "MidBackFoot.L"
+			
+				name: "MidBackFoot.L_end"
+				
+					name: "MidBackFoot.L_end_end"
+					
+			name: "PoleTarget.R"
+			
+				name: "PoleTarget.R_end"
+				
+					name: "PoleTarget.R_end_end"
+					
+			name: "FrontFoot2.R"
+			
+				name: "FrontFoot2.R_end"
+				
+					name: "FrontFoot2.R_end_end"
+					
+			name: "MidFrontFoot.R"
+			
+				name: "MidFrontFoot.R_end"
+				
+					name: "MidFrontFoot.R_end_end"
+					
+			name: "BackFoot.R"
+			
+				name: "BackFoot.R_end"
+				
+					name: "BackFoot.R_end_end"
+					
+			name: "MidBackFoot.R"
+			
+				name: "MidBackFoot.R_end"
+				
+					name: "MidBackFoot.R_end_end"
+					
+	name: "Cube"
+	numMeshes: 2
+	 addr: "00000000C1C73C10"
+	 name: "Cube"
+	 numVertices: "994"
+	 numFaces: "1944"
+	
+	 addr: "00000000C1C75150"
+	 name: "Cube"
+	 numVertices: "392"
+	 numFaces: "768"
+	
+	
+
+[15:43:43.580954] [Import] [info] (th=7208) File loaded successfully
+[15:43:43.580954] [Import] [info] (th=7208) Meshes count: 2
+[15:43:43.580954] [Import] [info] (th=7208) Materials count: 2
+[15:43:43.582954] [Import] [info] (th=7208) Textures count (imported): 0
+[16:41:57.652803] [Import] [info] (th=7208) Importing from E:\Users\Chris\Downloads\MANU-1.1.0-alpha\Assets\1. The Curse Assets\Animals by quaternius\Spider\Walk.fbx
+[16:41:57.752809] [Import] [info] (th=7208) Imported scene tree:
+name: "RootNode"
+
+	name: "SpiderArmature"
+	
+		name: "Root"
+		
+			name: "Body"
+			
+				name: "FrontLeg.L"
+				
+					name: "FrontLeg2.L"
+					
+						name: "FrontLeg3.L"
+						
+							name: "FrontLeg3.L_end"
+							
+								name: "FrontLeg3.L_end_end"
+								
+				name: "MidFrontLeg.L"
+				
+					name: "MidFrontLeg2.L"
+					
+						name: "MidFrontLeg3.L"
+						
+							name: "MidFrontLeg3.L_end"
+							
+								name: "MidFrontLeg3.L_end_end"
+								
+				name: "BackLeg.L"
+				
+					name: "BackLeg2.L"
+					
+						name: "BackLeg3.L"
+						
+							name: "BackLeg3.L_end"
+							
+								name: "BackLeg3.L_end_end"
+								
+				name: "MidBackLeg.L"
+				
+					name: "MidBackLeg2.L"
+					
+						name: "MidBackLeg3.L"
+						
+							name: "MidBackLeg3.L_end"
+							
+								name: "MidBackLeg3.L_end_end"
+								
+				name: "FrontLeg.R"
+				
+					name: "FrontLeg2.R"
+					
+						name: "FrontLeg3.R"
+						
+							name: "FrontLeg3.R_end"
+							
+								name: "FrontLeg3.R_end_end"
+								
+				name: "MidFrontLeg.R"
+				
+					name: "MidFrontLeg2.R"
+					
+						name: "MidFrontLeg3.R"
+						
+							name: "MidFrontLeg3.R_end"
+							
+								name: "MidFrontLeg3.R_end_end"
+								
+				name: "BackLeg.R"
+				
+					name: "BackLeg2.R"
+					
+						name: "BackLeg3.R"
+						
+							name: "BackLeg3.R_end"
+							
+								name: "BackLeg3.R_end_end"
+								
+				name: "MidBackLeg.R"
+				
+					name: "MidBackLeg2.R"
+					
+						name: "MidBackLeg3.R"
+						
+							name: "MidBackLeg3.R_end"
+							
+								name: "MidBackLeg3.R_end_end"
+								
+				name: "Abdomen"
+				
+					name: "Abdomen_end"
+					
+						name: "Abdomen_end_end"
+						
+				name: "Thorax"
+				
+					name: "Head"
+					
+						name: "Head_end"
+						
+							name: "Head_end_end"
+							
+			name: "PoleTarget.L"
+			
+				name: "PoleTarget.L_end"
+				
+					name: "PoleTarget.L_end_end"
+					
+			name: "FrontFoot.L"
+			
+				name: "FrontFoot.L_end"
+				
+					name: "FrontFoot.L_end_end"
+					
+			name: "MidFrontFoot.L"
+			
+				name: "MidFrontFoot.L_end"
+				
+					name: "MidFrontFoot.L_end_end"
+					
+			name: "BackFoot.L"
+			
+				name: "BackFoot.L_end"
+				
+					name: "BackFoot.L_end_end"
+					
+			name: "MidBackFoot.L"
+			
+				name: "MidBackFoot.L_end"
+				
+					name: "MidBackFoot.L_end_end"
+					
+			name: "PoleTarget.R"
+			
+				name: "PoleTarget.R_end"
+				
+					name: "PoleTarget.R_end_end"
+					
+			name: "FrontFoot2.R"
+			
+				name: "FrontFoot2.R_end"
+				
+					name: "FrontFoot2.R_end_end"
+					
+			name: "MidFrontFoot.R"
+			
+				name: "MidFrontFoot.R_end"
+				
+					name: "MidFrontFoot.R_end_end"
+					
+			name: "BackFoot.R"
+			
+				name: "BackFoot.R_end"
+				
+					name: "BackFoot.R_end_end"
+					
+			name: "MidBackFoot.R"
+			
+				name: "MidBackFoot.R_end"
+				
+					name: "MidBackFoot.R_end_end"
+					
+
+[16:41:57.752809] [Import] [info] (th=7208) File loaded successfully
+[16:41:57.752809] [Import] [info] (th=7208) Meshes count: 0
+[16:41:57.752809] [Import] [info] (th=7208) Materials count: 0
