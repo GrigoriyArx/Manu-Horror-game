@@ -156,3 +156,8 @@
 [13:41:06.465498] [SceneFactory] [info] (th=6136) Log level for 'SceneFactory' set to 'info'
 [15:50:42.809280] [SceneFactory] [info] (th=5320) Log level for 'SceneFactory' set to 'info'
 [17:29:22.321562] [SceneFactory] [info] (th=2268) Log level for 'SceneFactory' set to 'info'
+[11:51:45.039861] [SceneFactory] [info] (th=5648) Log level for 'SceneFactory' set to 'info'
+[13:16:27.462012] [SceneFactory] [info] (th=4572) Log level for 'SceneFactory' set to 'info'
+[13:16:27.462012] [SceneFactory] [info] (th=4572) Light is created: id: C4948140-D457-4CFA-9203-8B2005632369
+[17:34:06.111196] [SceneFactory] [info] (th=3448) Log level for 'SceneFactory' set to 'info'
+[19:03:26.240778] [SceneFactory] [info] (th=3448) Log level for 'SceneFactory' set to 'info'
