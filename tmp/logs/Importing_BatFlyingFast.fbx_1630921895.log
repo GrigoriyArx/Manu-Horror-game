@@ -1,0 +1,457 @@
+[12:51:35.161273] [Import] [info] (th=6872) Log level for 'Import' set to 'info'
+[12:51:35.161273] [Import] [info] (th=6872) Importing from E:\Users\Chris\Downloads\!Assets Manu\1. The Curse Assets\Animals by quaternius\BatFlyingFast.fbx
+[12:51:35.171274] [Import] [info] (th=6872) Imported scene tree:
+name: "RootNode"
+
+	name: "BatArmature"
+	
+		name: "Root"
+		
+			name: "BodyRoot"
+			
+				name: "Body"
+				
+					name: "Neck"
+					
+						name: "Head"
+						
+							name: "Face"
+							
+								name: "Nose"
+								
+									name: "Nose_end"
+									
+										name: "Nose_end_end"
+										
+					name: "Shoulder.L"
+					
+						name: "Wing1.L"
+						
+							name: "Wing2.L"
+							
+								name: "Wing3.L"
+								
+									name: "Wing4.L"
+									
+										name: "Wing4.L_end"
+										
+											name: "Wing4.L_end_end"
+											
+					name: "Shoulder.R"
+					
+						name: "Wing1.R"
+						
+							name: "Wing2.R"
+							
+								name: "Wing3.R"
+								
+									name: "Wing4.R"
+									
+										name: "Wing4.R_end"
+										
+											name: "Wing4.R_end_end"
+											
+				name: "UpperLeg.L"
+				
+					name: "LowerLeg.L"
+					
+						name: "Feet.L"
+						
+							name: "Feet.L_end"
+							
+								name: "Feet.L_end_end"
+								
+				name: "UpperLeg.R"
+				
+					name: "LowerLeg.R"
+					
+						name: "Feet.R"
+						
+							name: "Feet.R_end"
+							
+								name: "Feet.R_end_end"
+								
+
+[12:51:35.171274] [Import] [info] (th=6872) File loaded successfully
+[12:51:35.171274] [Import] [info] (th=6872) Meshes count: 0
+[12:51:35.171274] [Import] [info] (th=6872) Materials count: 0
+[12:52:20.655875] [Import] [info] (th=6872) Importing from E:\Users\Chris\Downloads\!Assets Manu\1. The Curse Assets\Animals by quaternius\BatFlyingFast.fbx
+[12:52:20.666876] [Import] [info] (th=6872) Imported scene tree:
+name: "RootNode"
+
+	name: "BatArmature"
+	
+		name: "Root"
+		
+			name: "BodyRoot"
+			
+				name: "Body"
+				
+					name: "Neck"
+					
+						name: "Head"
+						
+							name: "Face"
+							
+								name: "Nose"
+								
+									name: "Nose_end"
+									
+										name: "Nose_end_end"
+										
+					name: "Shoulder.L"
+					
+						name: "Wing1.L"
+						
+							name: "Wing2.L"
+							
+								name: "Wing3.L"
+								
+									name: "Wing4.L"
+									
+										name: "Wing4.L_end"
+										
+											name: "Wing4.L_end_end"
+											
+					name: "Shoulder.R"
+					
+						name: "Wing1.R"
+						
+							name: "Wing2.R"
+							
+								name: "Wing3.R"
+								
+									name: "Wing4.R"
+									
+										name: "Wing4.R_end"
+										
+											name: "Wing4.R_end_end"
+											
+				name: "UpperLeg.L"
+				
+					name: "LowerLeg.L"
+					
+						name: "Feet.L"
+						
+							name: "Feet.L_end"
+							
+								name: "Feet.L_end_end"
+								
+				name: "UpperLeg.R"
+				
+					name: "LowerLeg.R"
+					
+						name: "Feet.R"
+						
+							name: "Feet.R_end"
+							
+								name: "Feet.R_end_end"
+								
+
+[12:52:20.666876] [Import] [info] (th=6872) File loaded successfully
+[12:52:20.666876] [Import] [info] (th=6872) Meshes count: 0
+[12:52:20.666876] [Import] [info] (th=6872) Materials count: 0
+[12:52:33.453607] [Import] [info] (th=6872) Importing from E:\Users\Chris\Downloads\!Assets Manu\1. The Curse Assets\Animals by quaternius\BatFlyingFast.fbx
+[12:52:33.463608] [Import] [info] (th=6872) Imported scene tree:
+name: "RootNode"
+
+	name: "BatArmature"
+	
+		name: "Root"
+		
+			name: "BodyRoot"
+			
+				name: "Body"
+				
+					name: "Neck"
+					
+						name: "Head"
+						
+							name: "Face"
+							
+								name: "Nose"
+								
+									name: "Nose_end"
+									
+										name: "Nose_end_end"
+										
+					name: "Shoulder.L"
+					
+						name: "Wing1.L"
+						
+							name: "Wing2.L"
+							
+								name: "Wing3.L"
+								
+									name: "Wing4.L"
+									
+										name: "Wing4.L_end"
+										
+											name: "Wing4.L_end_end"
+											
+					name: "Shoulder.R"
+					
+						name: "Wing1.R"
+						
+							name: "Wing2.R"
+							
+								name: "Wing3.R"
+								
+									name: "Wing4.R"
+									
+										name: "Wing4.R_end"
+										
+											name: "Wing4.R_end_end"
+											
+				name: "UpperLeg.L"
+				
+					name: "LowerLeg.L"
+					
+						name: "Feet.L"
+						
+							name: "Feet.L_end"
+							
+								name: "Feet.L_end_end"
+								
+				name: "UpperLeg.R"
+				
+					name: "LowerLeg.R"
+					
+						name: "Feet.R"
+						
+							name: "Feet.R_end"
+							
+								name: "Feet.R_end_end"
+								
+
+[12:52:33.463608] [Import] [info] (th=6872) File loaded successfully
+[12:52:33.463608] [Import] [info] (th=6872) Meshes count: 0
+[12:52:33.463608] [Import] [info] (th=6872) Materials count: 0
+[12:52:45.361288] [Import] [info] (th=6872) Importing from E:\Users\Chris\Downloads\!Assets Manu\1. The Curse Assets\Animals by quaternius\BatFlyingFast.fbx
+[12:52:45.371289] [Import] [info] (th=6872) Imported scene tree:
+name: "RootNode"
+
+	name: "BatArmature"
+	
+		name: "Root"
+		
+			name: "BodyRoot"
+			
+				name: "Body"
+				
+					name: "Neck"
+					
+						name: "Head"
+						
+							name: "Face"
+							
+								name: "Nose"
+								
+									name: "Nose_end"
+									
+										name: "Nose_end_end"
+										
+					name: "Shoulder.L"
+					
+						name: "Wing1.L"
+						
+							name: "Wing2.L"
+							
+								name: "Wing3.L"
+								
+									name: "Wing4.L"
+									
+										name: "Wing4.L_end"
+										
+											name: "Wing4.L_end_end"
+											
+					name: "Shoulder.R"
+					
+						name: "Wing1.R"
+						
+							name: "Wing2.R"
+							
+								name: "Wing3.R"
+								
+									name: "Wing4.R"
+									
+										name: "Wing4.R_end"
+										
+											name: "Wing4.R_end_end"
+											
+				name: "UpperLeg.L"
+				
+					name: "LowerLeg.L"
+					
+						name: "Feet.L"
+						
+							name: "Feet.L_end"
+							
+								name: "Feet.L_end_end"
+								
+				name: "UpperLeg.R"
+				
+					name: "LowerLeg.R"
+					
+						name: "Feet.R"
+						
+							name: "Feet.R_end"
+							
+								name: "Feet.R_end_end"
+								
+
+[12:52:45.371289] [Import] [info] (th=6872) File loaded successfully
+[12:52:45.371289] [Import] [info] (th=6872) Meshes count: 0
+[12:52:45.371289] [Import] [info] (th=6872) Materials count: 0
+[12:52:56.001897] [Import] [info] (th=6872) Importing from E:\Users\Chris\Downloads\!Assets Manu\1. The Curse Assets\Animals by quaternius\BatFlyingFast.fbx
+[12:52:56.011897] [Import] [info] (th=6872) Imported scene tree:
+name: "RootNode"
+
+	name: "BatArmature"
+	
+		name: "Root"
+		
+			name: "BodyRoot"
+			
+				name: "Body"
+				
+					name: "Neck"
+					
+						name: "Head"
+						
+							name: "Face"
+							
+								name: "Nose"
+								
+									name: "Nose_end"
+									
+										name: "Nose_end_end"
+										
+					name: "Shoulder.L"
+					
+						name: "Wing1.L"
+						
+							name: "Wing2.L"
+							
+								name: "Wing3.L"
+								
+									name: "Wing4.L"
+									
+										name: "Wing4.L_end"
+										
+											name: "Wing4.L_end_end"
+											
+					name: "Shoulder.R"
+					
+						name: "Wing1.R"
+						
+							name: "Wing2.R"
+							
+								name: "Wing3.R"
+								
+									name: "Wing4.R"
+									
+										name: "Wing4.R_end"
+										
+											name: "Wing4.R_end_end"
+											
+				name: "UpperLeg.L"
+				
+					name: "LowerLeg.L"
+					
+						name: "Feet.L"
+						
+							name: "Feet.L_end"
+							
+								name: "Feet.L_end_end"
+								
+				name: "UpperLeg.R"
+				
+					name: "LowerLeg.R"
+					
+						name: "Feet.R"
+						
+							name: "Feet.R_end"
+							
+								name: "Feet.R_end_end"
+								
+
+[12:52:56.011897] [Import] [info] (th=6872) File loaded successfully
+[12:52:56.011897] [Import] [info] (th=6872) Meshes count: 0
+[12:52:56.011897] [Import] [info] (th=6872) Materials count: 0
+[12:53:06.012469] [Import] [info] (th=6872) Importing from E:\Users\Chris\Downloads\!Assets Manu\1. The Curse Assets\Animals by quaternius\BatFlyingFast.fbx
+[12:53:06.022470] [Import] [info] (th=6872) Imported scene tree:
+name: "RootNode"
+
+	name: "BatArmature"
+	
+		name: "Root"
+		
+			name: "BodyRoot"
+			
+				name: "Body"
+				
+					name: "Neck"
+					
+						name: "Head"
+						
+							name: "Face"
+							
+								name: "Nose"
+								
+									name: "Nose_end"
+									
+										name: "Nose_end_end"
+										
+					name: "Shoulder.L"
+					
+						name: "Wing1.L"
+						
+							name: "Wing2.L"
+							
+								name: "Wing3.L"
+								
+									name: "Wing4.L"
+									
+										name: "Wing4.L_end"
+										
+											name: "Wing4.L_end_end"
+											
+					name: "Shoulder.R"
+					
+						name: "Wing1.R"
+						
+							name: "Wing2.R"
+							
+								name: "Wing3.R"
+								
+									name: "Wing4.R"
+									
+										name: "Wing4.R_end"
+										
+											name: "Wing4.R_end_end"
+											
+				name: "UpperLeg.L"
+				
+					name: "LowerLeg.L"
+					
+						name: "Feet.L"
+						
+							name: "Feet.L_end"
+							
+								name: "Feet.L_end_end"
+								
+				name: "UpperLeg.R"
+				
+					name: "LowerLeg.R"
+					
+						name: "Feet.R"
+						
+							name: "Feet.R_end"
+							
+								name: "Feet.R_end_end"
+								
+
+[12:53:06.022470] [Import] [info] (th=6872) File loaded successfully
+[12:53:06.022470] [Import] [info] (th=6872) Meshes count: 0
+[12:53:06.022470] [Import] [info] (th=6872) Materials count: 0
