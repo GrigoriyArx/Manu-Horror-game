@@ -173,3 +173,15 @@
 [12:33:43.048898] [SceneFactory] [info] (th=4776) AudioSource is created: id: BB42127A-2977-44C3-A3D6-F376CB8D327C
 [12:38:08.853101] [SceneFactory] [info] (th=4776) AudioSource is created: id: 9B69DBE6-B4F4-4EF0-9422-D5AABDB66666
 [13:57:37.029825] [SceneFactory] [info] (th=4776) AudioSource is created: id: 101F485D-73E7-4238-BE2F-7151D973F0A5
+[19:03:22.737291] [SceneFactory] [info] (th=6672) Log level for 'SceneFactory' set to 'info'
+[10:37:17.173901] [SceneFactory] [info] (th=2480) Log level for 'SceneFactory' set to 'info'
+[10:37:17.173901] [SceneFactory] [info] (th=2480) AudioSource is created: id: 086DE4B6-CF69-4BD3-83C5-207DB62D31E9
+[19:49:37.359887] [SceneFactory] [info] (th=3128) Log level for 'SceneFactory' set to 'info'
+[11:03:43.244317] [SceneFactory] [info] (th=4236) Log level for 'SceneFactory' set to 'info'
+[12:53:35.251895] [SceneFactory] [info] (th=7040) Log level for 'SceneFactory' set to 'info'
+[12:53:35.251895] [SceneFactory] [info] (th=7040) AudioSource is created: id: CFF7E28E-C260-4DD0-8A41-25CF0CA1FF5A
+[17:18:48.755096] [SceneFactory] [info] (th=3596) Log level for 'SceneFactory' set to 'info'
+[11:14:24.273183] [SceneFactory] [info] (th=7752) Log level for 'SceneFactory' set to 'info'
+[11:14:24.273183] [SceneFactory] [info] (th=7752) AudioSource is created: id: 664B0480-C8CC-40A4-8860-B380AE322AC6
+[13:10:50.403767] [SceneFactory] [info] (th=7752) GhostObject is created: id: C65E5B9A-9D12-497C-A305-CF157C0CD3C7
+[15:27:24.507443] [SceneFactory] [info] (th=5652) Log level for 'SceneFactory' set to 'info'
