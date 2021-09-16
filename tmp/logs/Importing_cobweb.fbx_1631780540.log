@@ -1,0 +1,18 @@
+[11:22:20.352827] [Import] [info] (th=6704) Log level for 'Import' set to 'info'
+[11:22:20.352827] [Import] [info] (th=6704) Importing from E:\Users\Chris\Documents\ManuCollab\cobweb.fbx
+[11:22:20.354827] [Import] [info] (th=6704) Imported scene tree:
+name: "RootNode"
+
+	name: "Cobweb"
+	numMeshes: 1
+	 addr: "000000008CDFC6A0"
+	 name: "Cube"
+	 numVertices: "141"
+	 numFaces: "146"
+	
+	
+
+[11:22:20.354827] [Import] [info] (th=6704) File loaded successfully
+[11:22:20.354827] [Import] [info] (th=6704) Meshes count: 1
+[11:22:20.355827] [Import] [info] (th=6704) Materials count: 1
+[11:22:20.355827] [Import] [info] (th=6704) Textures count (imported): 1

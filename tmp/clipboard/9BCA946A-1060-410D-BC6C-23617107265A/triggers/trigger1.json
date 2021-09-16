@@ -1,0 +1,19 @@
+{
+    "@class": "AnimationTrigger",
+    "id": {
+        "uuid": "D0ADEF0F-5827-4E88-B641-964A9FC018CC"
+    },
+    "ownerScriptId": {
+        "uuid": "82864228-A570-4F97-9F0B-2841BEACA316"
+    },
+    "logicOperation": 0,
+    "resultType": 0,
+    "isInverted": false,
+    "event": 2,
+    "bindingLink": {
+        "@class": "BindingLink",
+        "targetId": {
+            "uuid": "03D490C9-7630-4F29-8F62-4A97F15F2689"
+        }
+    }
+}

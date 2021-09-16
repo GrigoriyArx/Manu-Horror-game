@@ -185,3 +185,8 @@
 [11:14:24.273183] [SceneFactory] [info] (th=7752) AudioSource is created: id: 664B0480-C8CC-40A4-8860-B380AE322AC6
 [13:10:50.403767] [SceneFactory] [info] (th=7752) GhostObject is created: id: C65E5B9A-9D12-497C-A305-CF157C0CD3C7
 [15:27:24.507443] [SceneFactory] [info] (th=5652) Log level for 'SceneFactory' set to 'info'
+[10:49:28.420100] [SceneFactory] [info] (th=5856) Log level for 'SceneFactory' set to 'info'
+[10:27:47.073606] [SceneFactory] [info] (th=4532) Log level for 'SceneFactory' set to 'info'
+[10:27:47.073606] [SceneFactory] [info] (th=4532) Light is created: id: E3E09C20-9210-44B9-A64C-5DF78F74BEC8
+[11:22:20.344827] [SceneFactory] [info] (th=6704) Log level for 'SceneFactory' set to 'info'
+[20:03:29.667330] [SceneFactory] [info] (th=7000) Log level for 'SceneFactory' set to 'info'
