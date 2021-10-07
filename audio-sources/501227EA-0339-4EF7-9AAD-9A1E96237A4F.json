@@ -1,1 +1,1 @@
-{"@class":"AudioSource","id":{"uuid":"501227EA-0339-4EF7-9AAD-9A1E96237A4F"},"volume":1.0,"volumeModulation":1.0,"pitch":1.0,"pitchModulation":1.0,"minDistance":0.0010000000474974514,"maxDistance":8.885766983032227,"rollof":1,"panOverride":true}
+{"@class":"AudioSource","id":{"uuid":"501227EA-0339-4EF7-9AAD-9A1E96237A4F"},"volume":1.0,"volumeModulation":1.0,"pitch":1.0,"pitchModulation":1.0,"minDistance":8.0,"maxDistance":10.00100040435791,"rollof":1,"panOverride":true}
