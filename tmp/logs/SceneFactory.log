@@ -223,3 +223,13 @@
 [11:51:25.070910] [SceneFactory] [info] (th=5520) Log level for 'SceneFactory' set to 'info'
 [12:45:18.570856] [SceneFactory] [info] (th=5520) Log level for 'SceneFactory' set to 'info'
 [16:04:06.710106] [SceneFactory] [info] (th=7420) Log level for 'SceneFactory' set to 'info'
+[10:48:02.584045] [SceneFactory] [info] (th=4112) Log level for 'SceneFactory' set to 'info'
+[17:06:48.057868] [SceneFactory] [info] (th=5032) Log level for 'SceneFactory' set to 'info'
+[17:36:45.214660] [SceneFactory] [info] (th=5032) Light is created: id: 7B16FA62-E908-473D-83B3-11798AB5D521
+[18:19:45.184225] [SceneFactory] [info] (th=5032) Log level for 'SceneFactory' set to 'info'
+[18:19:45.184225] [SceneFactory] [info] (th=5032) Plane is created: id: D40F21DF-BF09-4AD6-B43C-C0A5ABE8D26D
+[18:37:46.710085] [SceneFactory] [info] (th=5032) Light is created: id: 8D536E18-CFD3-4DA3-9424-6FCB43201AA3
+[18:53:06.570698] [SceneFactory] [info] (th=5032) Light is created: id: F17874D7-C45B-4197-AEDC-A5A69B471BC0
+[19:06:09.856500] [SceneFactory] [info] (th=5032) Light is created: id: BEDEFE8A-EBA8-4961-8246-747A47EE8686
+[19:28:17.703448] [SceneFactory] [info] (th=8596) Log level for 'SceneFactory' set to 'info'
+[19:28:17.703448] [SceneFactory] [info] (th=8596) Light is created: id: 9B1FD12E-1133-4551-B7A2-037E38855933

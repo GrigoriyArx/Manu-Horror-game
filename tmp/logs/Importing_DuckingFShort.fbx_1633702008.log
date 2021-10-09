@@ -1,0 +1,337 @@
+[17:06:48.057868] [Import] [info] (th=5032) Log level for 'Import' set to 'info'
+[17:06:48.058868] [Import] [info] (th=5032) Importing from E:\Users\Chris\Documents\ManuCollab\GGG_sketch_export_to_MIXAMO.fbx\Mixamo animations\scary new set\DuckingFShort.fbx
+[17:06:48.084870] [Import] [info] (th=5032) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "braid1.L"
+									
+										name: "braid2.L"
+										
+											name: "braid3.L"
+											
+												name: "braid4.L"
+												
+													name: "braid4.L_end"
+													
+									name: "braid1.R"
+									
+										name: "braid2.R"
+										
+											name: "braid3.R"
+											
+												name: "braid4.R"
+												
+													name: "braid4.R_end"
+													
+									name: "eye.L"
+									
+										name: "eye.L_end"
+										
+									name: "eye.R"
+									
+										name: "eye.R_end"
+										
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+
+[17:06:48.084870] [Import] [info] (th=5032) File loaded successfully
+[17:06:48.084870] [Import] [info] (th=5032) Meshes count: 0
+[17:06:48.085870] [Import] [info] (th=5032) Materials count: 0
+[17:14:16.510518] [Import] [info] (th=5032) Importing from E:\Users\Chris\Documents\ManuCollab\GGG_sketch_export_to_MIXAMO.fbx\Mixamo animations\scary new set\Spider_Death.fbx
+[17:14:16.532519] [Import] [info] (th=5032) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "braid1.L"
+									
+										name: "braid2.L"
+										
+											name: "braid3.L"
+											
+												name: "braid4.L"
+												
+													name: "braid4.L_end"
+													
+									name: "braid1.R"
+									
+										name: "braid2.R"
+										
+											name: "braid3.R"
+											
+												name: "braid4.R"
+												
+													name: "braid4.R_end"
+													
+									name: "eye.L"
+									
+										name: "eye.L_end"
+										
+									name: "eye.R"
+									
+										name: "eye.R_end"
+										
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+
+[17:14:16.532519] [Import] [info] (th=5032) File loaded successfully
+[17:14:16.532519] [Import] [info] (th=5032) Meshes count: 0
+[17:14:16.532519] [Import] [info] (th=5032) Materials count: 0
