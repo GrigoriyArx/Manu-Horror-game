@@ -1,0 +1,23 @@
+{
+    "@class": "SoundClip",
+    "beginTime": 3600,
+    "duration": 257,
+    "script": "SoundClipScript",
+    "behavior": {
+        "@class": "SoundSampleBehavior",
+        "volume": 1.0,
+        "volumeModulation": 0.0,
+        "pitch": 1.0,
+        "pitchModulation": 0.0,
+        "soundSampleId": {
+            "uuid": "B8F0318E-2155-4948-887C-FF2104BFC526"
+        }
+    },
+    "color": {
+        "values": [
+            0.8509804010391235,
+            0.4431372582912445,
+            0.34117648005485537
+        ]
+    }
+}

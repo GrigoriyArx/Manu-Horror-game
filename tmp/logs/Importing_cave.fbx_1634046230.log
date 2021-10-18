@@ -1,0 +1,18 @@
+[16:43:50.839396] [Import] [info] (th=1184) Log level for 'Import' set to 'info'
+[16:43:50.839522] [Import] [info] (th=1184) Importing from D:\Users\Chris\Documents\ManuCollab\cave.fbx
+[16:43:50.879149] [Import] [info] (th=1184) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane"
+	numMeshes: 1
+	 addr: "000002D390AC8110"
+	 name: "Plane.001"
+	 numVertices: "1660"
+	 numFaces: "2610"
+	
+	
+
+[16:43:50.879221] [Import] [info] (th=1184) File loaded successfully
+[16:43:50.879282] [Import] [info] (th=1184) Meshes count: 1
+[16:43:50.879343] [Import] [info] (th=1184) Materials count: 1
+[16:43:50.907288] [Import] [info] (th=1184) Textures count (imported): 1
