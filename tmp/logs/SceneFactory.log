@@ -250,3 +250,15 @@
 [15:51:15.812618] [SceneFactory] [info] (th=13580) Log level for 'SceneFactory' set to 'info'
 [13:46:34.046632] [SceneFactory] [info] (th=10012) Log level for 'SceneFactory' set to 'info'
 [13:46:34.047446] [SceneFactory] [info] (th=10012) Plane is created: id: F49DA107-B424-49BC-B711-E23060797A8C
+[13:15:16.178401] [SceneFactory] [info] (th=11056) Log level for 'SceneFactory' set to 'info'
+[14:20:52.555369] [SceneFactory] [info] (th=11056) Plane is created: id: B3338114-825C-402C-8413-51DD9E3455F6
+[16:15:02.217149] [SceneFactory] [info] (th=7540) Log level for 'SceneFactory' set to 'info'
+[13:15:43.986585] [SceneFactory] [info] (th=3628) Log level for 'SceneFactory' set to 'info'
+[17:41:29.308342] [SceneFactory] [info] (th=14776) Log level for 'SceneFactory' set to 'info'
+[17:41:29.310349] [SceneFactory] [info] (th=14776) Plane is created: id: E5F2876A-B420-4058-8BEF-DBA549FFB999
+[10:32:26.866977] [SceneFactory] [info] (th=4380) Log level for 'SceneFactory' set to 'info'
+[10:52:35.413877] [SceneFactory] [info] (th=4380) Light is created: id: 28E3C0DB-CEA7-4741-AA80-FF7560852B79
+[11:21:56.553697] [SceneFactory] [info] (th=4380) AudioSource is created: id: D9CBA1C6-8E76-4A23-91AC-99E7FD67678B
+[15:45:12.702252] [SceneFactory] [info] (th=9324) Log level for 'SceneFactory' set to 'info'
+[15:45:12.702347] [SceneFactory] [info] (th=9324) Plane is created: id: F8B35CBB-00C0-48C8-9936-1376B6C8D629
+[18:05:46.628671] [SceneFactory] [info] (th=20076) Log level for 'SceneFactory' set to 'info'

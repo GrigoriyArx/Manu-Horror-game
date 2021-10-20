@@ -1,0 +1,37 @@
+[10:32:26.867465] [Import] [info] (th=4380) Log level for 'Import' set to 'info'
+[10:32:26.868380] [Import] [info] (th=4380) Importing from D:\Users\Chris\Documents\ManuCollab\planks.fbx
+[10:32:26.889250] [Import] [info] (th=4380) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene4_room1.001"
+	numMeshes: 1
+	 addr: "0000022774AFDF00"
+	 name: "Cube.002"
+	 numVertices: "32"
+	 numFaces: "16"
+	
+	
+
+[10:32:26.889366] [Import] [info] (th=4380) File loaded successfully
+[10:32:26.889451] [Import] [info] (th=4380) Meshes count: 1
+[10:32:26.889531] [Import] [info] (th=4380) Materials count: 1
+[10:32:26.891815] [Import] [warning] (th=4380) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\Room1_textures\Scene_04_Room1_BaseColor.png
+[10:32:26.892007] [Import] [warning] (th=4380) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\Room1_textures\Scene_04_Room1_Normal.png
+[10:32:26.892088] [Import] [info] (th=4380) Textures count (imported): 0
+[10:38:36.108602] [Import] [info] (th=4380) Importing from D:\Users\Chris\Documents\ManuCollab\Cave_extra.fbx
+[10:38:36.112538] [Import] [info] (th=4380) Imported scene tree:
+name: "RootNode"
+
+	name: "LongCave"
+	numMeshes: 1
+	 addr: "0000022774B04E90"
+	 name: "Cube.166"
+	 numVertices: "146"
+	 numFaces: "70"
+	
+	
+
+[10:38:36.112601] [Import] [info] (th=4380) File loaded successfully
+[10:38:36.112657] [Import] [info] (th=4380) Meshes count: 1
+[10:38:36.112711] [Import] [info] (th=4380) Materials count: 1
+[10:38:36.113448] [Import] [info] (th=4380) Textures count (imported): 1
