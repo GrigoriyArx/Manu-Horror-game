@@ -1,0 +1,18 @@
+[12:07:48.685715] [Import] [info] (th=23604) Log level for 'Import' set to 'info'
+[12:07:48.686500] [Import] [info] (th=23604) Importing from D:\Users\Chris\Documents\ManuCollab\single drop.fbx
+[12:07:48.709399] [Import] [info] (th=23604) Imported scene tree:
+name: "RootNode"
+
+	name: "Cone.006"
+	numMeshes: 1
+	 addr: "00000226D4A4DEE0"
+	 name: "Cone.006"
+	 numVertices: "588"
+	 numFaces: "894"
+	
+	
+
+[12:07:48.709498] [Import] [info] (th=23604) File loaded successfully
+[12:07:48.709635] [Import] [info] (th=23604) Meshes count: 1
+[12:07:48.709711] [Import] [info] (th=23604) Materials count: 1
+[12:07:48.712018] [Import] [info] (th=23604) Textures count (imported): 0

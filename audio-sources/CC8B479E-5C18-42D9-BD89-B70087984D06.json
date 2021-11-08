@@ -1,1 +1,1 @@
-{"@class":"AudioSource","id":{"uuid":"CC8B479E-5C18-42D9-BD89-B70087984D06"},"volume":1.0,"volumeModulation":1.0,"pitch":1.0,"pitchModulation":1.0,"minDistance":8.0,"maxDistance":10.00100040435791,"rollof":1,"panOverride":true}
+{"@class":"AudioSource","id":{"uuid":"CC8B479E-5C18-42D9-BD89-B70087984D06"},"volume":1.0,"volumeModulation":1.0,"pitch":1.0,"pitchModulation":1.0,"minDistance":3.0,"maxDistance":6.0,"rollof":1,"panOverride":true}

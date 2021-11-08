@@ -1,0 +1,112 @@
+[23:10:53.410291] [Import] [info] (th=32312) Log level for 'Import' set to 'info'
+[23:10:53.410917] [Import] [info] (th=32312) Importing from D:\Users\Chris\Documents\ManuCollab\debris hole.fbx
+[23:10:53.438459] [Import] [info] (th=32312) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene4_room1"
+	numMeshes: 1
+	 addr: "00000191DBEAA020"
+	 name: "Cube.085"
+	 numVertices: "4507"
+	 numFaces: "2551"
+	
+	
+
+[23:10:53.438544] [Import] [info] (th=32312) File loaded successfully
+[23:10:53.438656] [Import] [info] (th=32312) Meshes count: 1
+[23:10:53.438726] [Import] [info] (th=32312) Materials count: 1
+[23:10:53.441209] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\Room1_textures\Scene_04_Room1_BaseColor.png
+[23:10:53.441413] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\Room1_textures\Scene_04_Room1_Normal.png
+[23:10:53.441516] [Import] [info] (th=32312) Textures count (imported): 0
+[23:16:02.740435] [Import] [info] (th=32312) Importing from D:\Users\Chris\Documents\ManuCollab\debris hole.fbx
+[23:16:02.749352] [Import] [info] (th=32312) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene4_room1"
+	numMeshes: 1
+	 addr: "00000191DBEAFA70"
+	 name: "Cube.085"
+	 numVertices: "391"
+	 numFaces: "289"
+	
+	
+	name: "Scene4_room1.001"
+	numMeshes: 1
+	 addr: "00000191DBEB3F80"
+	 name: "Cube.001"
+	 numVertices: "4116"
+	 numFaces: "2262"
+	
+	
+
+[23:16:02.749427] [Import] [info] (th=32312) File loaded successfully
+[23:16:02.749490] [Import] [info] (th=32312) Meshes count: 2
+[23:16:02.749554] [Import] [info] (th=32312) Materials count: 1
+[23:16:02.749914] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\Room1_textures\Scene_04_Room1_BaseColor.png
+[23:16:02.750106] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\Room1_textures\Scene_04_Room1_Normal.png
+[23:16:02.750179] [Import] [info] (th=32312) Textures count (imported): 0
+[23:32:59.755604] [Import] [info] (th=32312) Importing from D:\Users\Chris\Documents\ManuCollab\debris hole.fbx
+[23:32:59.759293] [Import] [info] (th=32312) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene4_room1"
+	numMeshes: 1
+	 addr: "00000191DBEB0A60"
+	 name: "Cube.085"
+	 numVertices: "393"
+	 numFaces: "289"
+	
+	
+
+[23:32:59.759358] [Import] [info] (th=32312) File loaded successfully
+[23:32:59.759414] [Import] [info] (th=32312) Meshes count: 1
+[23:32:59.759474] [Import] [info] (th=32312) Materials count: 1
+[23:32:59.759780] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Room4\4K\Room4_bake_BaseColor.png
+[23:32:59.759962] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Room4\4K\Room4_bake_Normal.png
+[23:32:59.760030] [Import] [info] (th=32312) Textures count (imported): 0
+[23:39:31.905407] [Import] [info] (th=32312) Importing from D:\Users\Chris\Documents\ManuCollab\debris.fbx
+[23:39:31.973142] [Import] [info] (th=32312) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene4_room1.001"
+	numMeshes: 1
+	 addr: "000001918575DAC0"
+	 name: "Cube.001"
+	 numVertices: "4116"
+	 numFaces: "2262"
+	
+	
+
+[23:39:31.973223] [Import] [info] (th=32312) File loaded successfully
+[23:39:31.973278] [Import] [info] (th=32312) Meshes count: 1
+[23:39:31.973333] [Import] [info] (th=32312) Materials count: 1
+[23:39:31.973660] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\Room1_textures\Scene_04_Room1_BaseColor.png
+[23:39:31.973890] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\Room1_textures\Scene_04_Room1_Normal.png
+[23:39:31.973995] [Import] [info] (th=32312) Textures count (imported): 0
+[00:04:23.746499] [Import] [info] (th=32312) Importing from D:\Users\Chris\Documents\ManuCollab\newroom.fbx
+[00:04:23.752230] [Import] [info] (th=32312) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene4_room1"
+	numMeshes: 1
+	 addr: "00000191DBEA5070"
+	 name: "Cube.085"
+	 numVertices: "424"
+	 numFaces: "289"
+	
+	
+	name: "Room4"
+	numMeshes: 1
+	 addr: "00000191DBEABAB0"
+	 name: "Cube.160"
+	 numVertices: "652"
+	 numFaces: "426"
+	
+	
+
+[00:04:23.752295] [Import] [info] (th=32312) File loaded successfully
+[00:04:23.752349] [Import] [info] (th=32312) Meshes count: 2
+[00:04:23.752404] [Import] [info] (th=32312) Materials count: 1
+[00:04:23.752718] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Room4\4K\Room4_bake_BaseColor.png
+[00:04:23.752913] [Import] [warning] (th=32312) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Room4\4K\Room4_bake_Normal.png
+[00:04:23.752978] [Import] [info] (th=32312) Textures count (imported): 0

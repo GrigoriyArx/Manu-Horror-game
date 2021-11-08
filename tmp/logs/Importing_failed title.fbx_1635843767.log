@@ -1,0 +1,94 @@
+[11:02:47.273197] [Import] [info] (th=5536) Log level for 'Import' set to 'info'
+[11:02:47.273302] [Import] [info] (th=5536) Importing from D:\Users\Chris\Documents\ManuCollab\failed title.fbx
+[11:02:47.297680] [Import] [info] (th=5536) Imported scene tree:
+name: "RootNode"
+
+	name: "Text.001"
+	numMeshes: 1
+	 addr: "000001B10F569470"
+	 name: "Text.005"
+	 numVertices: "1371"
+	 numFaces: "1496"
+	
+	
+		name: "Armature"
+		
+			name: "Bone"
+			
+				name: "Bone.001"
+				
+					name: "Cone.001"
+					numMeshes: 1
+					 addr: "000001B10F5699C0"
+					 name: "Cone.001"
+					 numVertices: "588"
+					 numFaces: "894"
+					
+					
+					name: "Bone.001_end"
+					
+				name: "Bone.002"
+				
+					name: "Cone.006"
+					numMeshes: 1
+					 addr: "000001B10F56D430"
+					 name: "Cone.006"
+					 numVertices: "588"
+					 numFaces: "894"
+					
+					
+					name: "Bone.002_end"
+					
+				name: "Bone.003"
+				
+					name: "Cone.003"
+					numMeshes: 1
+					 addr: "000001B10F56AF00"
+					 name: "Cone.003"
+					 numVertices: "588"
+					 numFaces: "894"
+					
+					
+					name: "Bone.003_end"
+					
+				name: "Bone.004"
+				
+					name: "Cone.002"
+					numMeshes: 1
+					 addr: "000001B10F570EA0"
+					 name: "Cone.002"
+					 numVertices: "588"
+					 numFaces: "894"
+					
+					
+					name: "Bone.004_end"
+					
+				name: "Bone.005"
+				
+					name: "Cone.005"
+					numMeshes: 1
+					 addr: "000001B10F56B450"
+					 name: "Cone.005"
+					 numVertices: "588"
+					 numFaces: "894"
+					
+					
+					name: "Bone.005_end"
+					
+				name: "Bone.006"
+				
+					name: "Cone.004"
+					numMeshes: 1
+					 addr: "000001B10F56B9A0"
+					 name: "Cone.004"
+					 numVertices: "588"
+					 numFaces: "894"
+					
+					
+					name: "Bone.006_end"
+					
+
+[11:02:47.297752] [Import] [info] (th=5536) File loaded successfully
+[11:02:47.297809] [Import] [info] (th=5536) Meshes count: 7
+[11:02:47.297866] [Import] [info] (th=5536) Materials count: 2
+[11:02:47.298303] [Import] [info] (th=5536) Textures count (imported): 1
