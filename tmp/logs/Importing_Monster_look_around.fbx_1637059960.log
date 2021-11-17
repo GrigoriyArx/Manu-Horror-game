@@ -1,0 +1,91 @@
+[12:52:40.019481] [Import] [info] (th=1724) Log level for 'Import' set to 'info'
+[12:52:40.020179] [Import] [info] (th=1724) Importing from D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Monster_look_around.fbx
+[12:52:40.068585] [Import] [info] (th=1724) Imported scene tree:
+name: "RootNode"
+
+	name: "thc4_arma"
+	
+		name: "root_bone"
+		
+			name: "hip"
+			
+				name: "spine"
+				
+					name: "chest"
+					
+						name: "neck"
+						
+							name: "head"
+							
+								name: "jaw"
+								
+									name: "jaw_end"
+									
+						name: "shoulder.L"
+						
+							name: "arm.L"
+							
+								name: "forearm.L"
+								
+									name: "hand.L"
+									
+										name: "fingers1.L"
+										
+											name: "fingers2.L"
+											
+												name: "fingers2.L_end"
+												
+									name: "thumb1.L"
+									
+										name: "thumb2.L"
+										
+											name: "thumb2.L_end"
+											
+						name: "shoulder.R"
+						
+							name: "arm.R"
+							
+								name: "forearm.R"
+								
+									name: "hand.R"
+									
+										name: "fingers1.R"
+										
+											name: "fingers2.R"
+											
+												name: "fingers2.R_end"
+												
+									name: "thumb1.R"
+									
+										name: "thumb2.R"
+										
+											name: "thumb2.R_end"
+											
+				name: "hip2.L"
+				
+					name: "thigh.L"
+					
+						name: "shin.L"
+						
+							name: "foot.L"
+							
+								name: "toe.L"
+								
+									name: "toe.L_end"
+									
+				name: "hip2.R"
+				
+					name: "thigh.R"
+					
+						name: "shin.R"
+						
+							name: "foot.R"
+							
+								name: "toe.R"
+								
+									name: "toe.R_end"
+									
+
+[12:52:40.068669] [Import] [info] (th=1724) File loaded successfully
+[12:52:40.068739] [Import] [info] (th=1724) Meshes count: 0
+[12:52:40.068809] [Import] [info] (th=1724) Materials count: 0

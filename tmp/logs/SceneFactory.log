@@ -295,3 +295,10 @@
 [11:52:05.425933] [SceneFactory] [info] (th=8956) Plane is created: id: B4313904-33DD-4901-B3AA-79589C2E6EDB
 [17:30:16.929808] [SceneFactory] [info] (th=24808) Log level for 'SceneFactory' set to 'info'
 [18:12:00.946042] [SceneFactory] [info] (th=24808) Sphere is created: id: DB4C72D8-AA61-43AE-A41C-ACB8507B6CBD
+[13:10:56.043679] [SceneFactory] [info] (th=3632) Log level for 'SceneFactory' set to 'info'
+[13:10:56.044544] [SceneFactory] [info] (th=3632) Plane is created: id: 272FE16B-9773-43B0-8802-5E18562D5772
+[20:39:17.075463] [SceneFactory] [info] (th=12312) Log level for 'SceneFactory' set to 'info'
+[12:52:40.017980] [SceneFactory] [info] (th=1724) Log level for 'SceneFactory' set to 'info'
+[17:47:39.225805] [SceneFactory] [info] (th=716) Log level for 'SceneFactory' set to 'info'
+[18:33:50.838626] [SceneFactory] [info] (th=4988) Log level for 'SceneFactory' set to 'info'
+[18:43:20.540639] [SceneFactory] [info] (th=4500) Log level for 'SceneFactory' set to 'info'
