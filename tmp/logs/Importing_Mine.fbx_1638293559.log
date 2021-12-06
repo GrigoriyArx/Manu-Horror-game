@@ -1,0 +1,284 @@
+[19:32:39.828644] [Import] [info] (th=12336) Log level for 'Import' set to 'info'
+[19:32:39.829650] [Import] [info] (th=12336) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Mine.fbx
+[19:32:39.915378] [Import] [info] (th=12336) Imported scene tree:
+name: "RootNode"
+
+	name: "RockGround_3_LP.004"
+	numMeshes: 1
+	 addr: "000001E9ACEE5500"
+	 name: "Cube.009"
+	 numVertices: "203"
+	 numFaces: "308"
+	
+	
+		name: "Cube.003"
+		numMeshes: 1
+		 addr: "000001E9ACEE2FD0"
+		 name: "Cube.008"
+		 numVertices: "88"
+		 numFaces: "44"
+		
+		
+			name: "Cube"
+			numMeshes: 1
+			 addr: "000001E9ACEE84D0"
+			 name: "Cube"
+			 numVertices: "88"
+			 numFaces: "44"
+			
+			
+			name: "Cube.002"
+			numMeshes: 1
+			 addr: "000001E9ACEEC490"
+			 name: "Cube.003"
+			 numVertices: "88"
+			 numFaces: "44"
+			
+			
+			name: "Cube.004"
+			numMeshes: 1
+			 addr: "000001E9ACEE8A20"
+			 name: "Cube.012"
+			 numVertices: "88"
+			 numFaces: "44"
+			
+			
+			name: "Cube.005"
+			numMeshes: 1
+			 addr: "000001E9ACEEC9E0"
+			 name: "Cube.013"
+			 numVertices: "88"
+			 numFaces: "44"
+			
+			
+			name: "Cube.006"
+			numMeshes: 1
+			 addr: "000001E9ACEEAF50"
+			 name: "Cube.014"
+			 numVertices: "72"
+			 numFaces: "44"
+			
+			
+			name: "Cube.007"
+			numMeshes: 1
+			 addr: "000001E9ACEEB4A0"
+			 name: "Cube.015"
+			 numVertices: "72"
+			 numFaces: "44"
+			
+			
+			name: "Cube.008"
+			numMeshes: 1
+			 addr: "000001E9ACEEB9F0"
+			 name: "Cube.016"
+			 numVertices: "72"
+			 numFaces: "44"
+			
+			
+
+[19:32:39.915868] [Import] [info] (th=12336) File loaded successfully
+[19:32:39.915945] [Import] [info] (th=12336) Meshes count: 9
+[19:32:39.916015] [Import] [info] (th=12336) Materials count: 9
+[19:32:39.920367] [Import] [warning] (th=12336) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene3\RockGround_3_n.png
+[19:32:39.920667] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:32:39.920837] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:32:39.921082] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:32:39.921247] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:32:39.921505] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:32:39.921741] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:32:39.921995] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:32:39.922187] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:32:39.922502] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:32:39.922721] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:32:39.923024] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:32:39.923231] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:32:39.923514] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:32:39.923679] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:32:39.923924] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:32:39.924084] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:32:39.924146] [Import] [info] (th=12336) Textures count (imported): 0
+[19:41:57.694425] [Import] [info] (th=12336) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Mine_Entrance.fbx
+[19:41:57.789703] [Import] [info] (th=12336) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.003"
+	numMeshes: 1
+	 addr: "000001E9AD36B060"
+	 name: "Cube.008"
+	 numVertices: "88"
+	 numFaces: "44"
+	
+	
+		name: "Cube"
+		numMeshes: 1
+		 addr: "000001E9AD371AA0"
+		 name: "Cube"
+		 numVertices: "88"
+		 numFaces: "44"
+		
+		
+		name: "Cube.002"
+		numMeshes: 1
+		 addr: "000001E9AD36D590"
+		 name: "Cube.003"
+		 numVertices: "88"
+		 numFaces: "44"
+		
+		
+		name: "Cube.004"
+		numMeshes: 1
+		 addr: "000001E9AD372FE0"
+		 name: "Cube.012"
+		 numVertices: "88"
+		 numFaces: "44"
+		
+		
+		name: "Cube.005"
+		numMeshes: 1
+		 addr: "000001E9AD371550"
+		 name: "Cube.013"
+		 numVertices: "88"
+		 numFaces: "44"
+		
+		
+		name: "Cube.006"
+		numMeshes: 1
+		 addr: "000001E9AD371FF0"
+		 name: "Cube.014"
+		 numVertices: "74"
+		 numFaces: "44"
+		
+		
+		name: "Cube.007"
+		numMeshes: 1
+		 addr: "000001E9AD36E030"
+		 name: "Cube.015"
+		 numVertices: "78"
+		 numFaces: "44"
+		
+		
+		name: "Cube.008"
+		numMeshes: 1
+		 addr: "000001E9AD36EAD0"
+		 name: "Cube.016"
+		 numVertices: "76"
+		 numFaces: "44"
+		
+		
+
+[19:41:57.790123] [Import] [info] (th=12336) File loaded successfully
+[19:41:57.790271] [Import] [info] (th=12336) Meshes count: 8
+[19:41:57.790329] [Import] [info] (th=12336) Materials count: 8
+[19:41:57.794469] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:41:57.794846] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:41:57.795108] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:41:57.795740] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:41:57.795987] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:41:57.796151] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:41:57.796393] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:41:57.796555] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:41:57.796802] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:41:57.796966] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:41:57.797222] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:41:57.797401] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:41:57.797648] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:41:57.797814] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:41:57.798062] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Diffuse.png
+[19:41:57.798232] [Import] [warning] (th=12336) Texture not found: D:\!SubstanceDesigner\DownLoaded\Wood\ancient_wooden_beams_with_worm_holes_Normal.png
+[19:41:57.798296] [Import] [info] (th=12336) Textures count (imported): 0
+[19:53:52.999164] [Import] [info] (th=12336) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Mine_Rails.fbx
+[19:53:53.071590] [Import] [info] (th=12336) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.012"
+	numMeshes: 2
+	 addr: "000001E9AD375FB0"
+	 name: "Cube.023"
+	 numVertices: "300"
+	 numFaces: "188"
+	
+	 addr: "000001E9AD378F80"
+	 name: "Cube.023"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+		name: "Cube.010"
+		numMeshes: 2
+		 addr: "000001E9AD376500"
+		 name: "Cube.020"
+		 numVertices: "372"
+		 numFaces: "188"
+		
+		 addr: "000001E9AD376A50"
+		 name: "Cube.020"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+		name: "Cube.013"
+		numMeshes: 2
+		 addr: "000001E9AD3794D0"
+		 name: "Cube.024"
+		 numVertices: "308"
+		 numFaces: "188"
+		
+		 addr: "000001E9ACEDC590"
+		 name: "Cube.024"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+
+[19:53:53.071919] [Import] [info] (th=12336) File loaded successfully
+[19:53:53.072284] [Import] [info] (th=12336) Meshes count: 6
+[19:53:53.072801] [Import] [info] (th=12336) Materials count: 6
+[19:53:53.128716] [Import] [info] (th=12336) Textures count (imported): 2
+[19:55:09.208329] [Import] [info] (th=12336) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Mine_Rails.fbx
+[19:55:09.220608] [Import] [info] (th=12336) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube.012"
+	numMeshes: 2
+	 addr: "000001E9AEB94090"
+	 name: "Cube.023"
+	 numVertices: "292"
+	 numFaces: "188"
+	
+	 addr: "000001E9AEB95B20"
+	 name: "Cube.023"
+	 numVertices: "240"
+	 numFaces: "120"
+	
+	
+		name: "Cube.010"
+		numMeshes: 2
+		 addr: "000001E9AEB96070"
+		 name: "Cube.020"
+		 numVertices: "372"
+		 numFaces: "188"
+		
+		 addr: "000001E9AEB930A0"
+		 name: "Cube.020"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+		name: "Cube.013"
+		numMeshes: 2
+		 addr: "000001E9AEB91B60"
+		 name: "Cube.024"
+		 numVertices: "292"
+		 numFaces: "188"
+		
+		 addr: "000001E9AEB920B0"
+		 name: "Cube.024"
+		 numVertices: "240"
+		 numFaces: "120"
+		
+		
+
+[19:55:09.220718] [Import] [info] (th=12336) File loaded successfully
+[19:55:09.220794] [Import] [info] (th=12336) Meshes count: 6
+[19:55:09.221319] [Import] [info] (th=12336) Materials count: 6
+[19:55:09.223606] [Import] [info] (th=12336) Textures count (imported): 2

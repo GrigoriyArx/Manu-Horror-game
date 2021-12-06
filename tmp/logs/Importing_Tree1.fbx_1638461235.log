@@ -1,0 +1,32 @@
+[18:07:15.955334] [Import] [info] (th=15436) Log level for 'Import' set to 'info'
+[18:07:15.955520] [Import] [info] (th=15436) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Tree1.fbx
+[18:07:16.039976] [Import] [info] (th=15436) Imported scene tree:
+name: "RootNode"
+
+	name: "Pine3.003"
+	numMeshes: 1
+	 addr: "0000015D75D23030"
+	 name: "Plane.131"
+	 numVertices: "4284"
+	 numFaces: "3686"
+	
+	
+		name: "Pine3_firs.003"
+		numMeshes: 2
+		 addr: "0000015D75D25560"
+		 name: "Plane.132"
+		 numVertices: "294"
+		 numFaces: "218"
+		
+		 addr: "0000015D75D205B0"
+		 name: "Plane.132"
+		 numVertices: "9262"
+		 numFaces: "6106"
+		
+		
+
+[18:07:16.040063] [Import] [info] (th=15436) File loaded successfully
+[18:07:16.040132] [Import] [info] (th=15436) Meshes count: 3
+[18:07:16.040200] [Import] [info] (th=15436) Materials count: 3
+[18:07:16.040668] [Import] [warning] (th=15436) Texture not found: D:\!FOR_ASSETS\Nature\Pine_trees\Bark_textures\PineBark_Normal_OpenGL.png
+[18:07:16.040974] [Import] [info] (th=15436) Textures count (imported): 0

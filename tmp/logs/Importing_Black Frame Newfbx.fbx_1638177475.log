@@ -1,0 +1,75 @@
+[11:17:55.529652] [Import] [info] (th=3032) Log level for 'Import' set to 'info'
+[11:17:55.529759] [Import] [info] (th=3032) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Black Frame Newfbx.fbx
+[11:17:55.535453] [Import] [info] (th=3032) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "000001EF3855FC30"
+	 name: "Cube.168"
+	 numVertices: "618"
+	 numFaces: "341"
+	
+	
+		name: "Scene_BLACK.002"
+		numMeshes: 1
+		 addr: "000001EF38563BF0"
+		 name: "Cube.004"
+		 numVertices: "137"
+		 numFaces: "123"
+		
+		
+		name: "Scene_BLACK.001"
+		numMeshes: 1
+		 addr: "000001EF38560180"
+		 name: "Cube.002"
+		 numVertices: "97"
+		 numFaces: "50"
+		
+		
+
+[11:17:55.535515] [Import] [info] (th=3032) File loaded successfully
+[11:17:55.535568] [Import] [info] (th=3032) Meshes count: 3
+[11:17:55.535621] [Import] [info] (th=3032) Materials count: 2
+[11:17:55.535855] [Import] [info] (th=3032) Textures count (imported): 0
+[11:31:55.350519] [Import] [info] (th=3032) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Cave Extrented New.fbx
+[11:31:55.356388] [Import] [info] (th=3032) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "000001EF38567660"
+	 name: "Cube.168"
+	 numVertices: "618"
+	 numFaces: "341"
+	
+	
+		name: "Scene_BLACK.002"
+		numMeshes: 1
+		 addr: "000001EF3856CB60"
+		 name: "Cube.004"
+		 numVertices: "137"
+		 numFaces: "123"
+		
+		
+			name: "LongCave.002"
+			numMeshes: 1
+			 addr: "000001EF38568100"
+			 name: "Cube.005"
+			 numVertices: "547"
+			 numFaces: "656"
+			
+			
+		name: "Scene_BLACK.001"
+		numMeshes: 1
+		 addr: "000001EF38568650"
+		 name: "Cube.002"
+		 numVertices: "97"
+		 numFaces: "50"
+		
+		
+
+[11:31:55.356451] [Import] [info] (th=3032) File loaded successfully
+[11:31:55.356505] [Import] [info] (th=3032) Meshes count: 4
+[11:31:55.356566] [Import] [info] (th=3032) Materials count: 3
+[11:31:55.396467] [Import] [info] (th=3032) Textures count (imported): 1

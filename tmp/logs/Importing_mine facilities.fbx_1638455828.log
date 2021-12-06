@@ -1,0 +1,89 @@
+[16:37:08.041572] [Import] [info] (th=3248) Log level for 'Import' set to 'info'
+[16:37:08.042483] [Import] [info] (th=3248) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\mine facilities.fbx
+[16:37:08.070940] [Import] [info] (th=3248) Imported scene tree:
+name: "RootNode"
+
+	name: "Warehouse"
+	numMeshes: 2
+	 addr: "00000257BD39D3F0"
+	 name: "Cube.003"
+	 numVertices: "208"
+	 numFaces: "104"
+	
+	 addr: "00000257BD39CEA0"
+	 name: "Cube.003"
+	 numVertices: "409"
+	 numFaces: "233"
+	
+	
+		name: "Cube.002"
+		numMeshes: 1
+		 addr: "00000257BD397EF0"
+		 name: "Cube.002"
+		 numVertices: "1178"
+		 numFaces: "806"
+		
+		
+			name: "Cube.017"
+			numMeshes: 1
+			 addr: "00000257BD39A420"
+			 name: "Cube.029"
+			 numVertices: "457"
+			 numFaces: "314"
+			
+			
+				name: "Wheels.001"
+				numMeshes: 1
+				 addr: "00000257BD3959C0"
+				 name: "Cylinder.001"
+				 numVertices: "373"
+				 numFaces: "322"
+				
+				
+					name: "Cube"
+					numMeshes: 1
+					 addr: "00000257BD398990"
+					 name: "Cube"
+					 numVertices: "72"
+					 numFaces: "38"
+					
+					
+		name: "Top1"
+		numMeshes: 1
+		 addr: "00000257BD39D940"
+		 name: "Cube.021"
+		 numVertices: "104"
+		 numFaces: "52"
+		
+		
+		name: "Top2"
+		numMeshes: 1
+		 addr: "00000257BD398EE0"
+		 name: "Cube.022"
+		 numVertices: "120"
+		 numFaces: "64"
+		
+		
+		name: "Top3"
+		numMeshes: 1
+		 addr: "00000257BD396460"
+		 name: "Cube.023"
+		 numVertices: "108"
+		 numFaces: "56"
+		
+		
+		name: "Top4"
+		numMeshes: 1
+		 addr: "00000257BD39B410"
+		 name: "Cube.024"
+		 numVertices: "104"
+		 numFaces: "52"
+		
+		
+
+[16:37:08.071030] [Import] [info] (th=3248) File loaded successfully
+[16:37:08.071105] [Import] [info] (th=3248) Meshes count: 10
+[16:37:08.071182] [Import] [info] (th=3248) Materials count: 6
+[16:37:08.073556] [Import] [warning] (th=3248) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\EnterHouse_Textures\EnterHouseNormal.png
+[16:37:08.074977] [Import] [warning] (th=3248) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\EnterHouse_Textures\EnterHouseNormal.png
+[16:37:08.075043] [Import] [info] (th=3248) Textures count (imported): 4

@@ -1,0 +1,26 @@
+[13:08:42.778445] [Import] [info] (th=4616) Log level for 'Import' set to 'info'
+[13:08:42.779251] [Import] [info] (th=4616) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Cave_Extented.fbx
+[13:08:42.801507] [Import] [info] (th=4616) Imported scene tree:
+name: "RootNode"
+
+	name: "LongCave.002"
+	numMeshes: 1
+	 addr: "00000150BCDBB480"
+	 name: "Cube.005"
+	 numVertices: "544"
+	 numFaces: "656"
+	
+	
+	name: "Scene_BLACK.002"
+	numMeshes: 1
+	 addr: "00000150BCDB5A30"
+	 name: "Cube.004"
+	 numVertices: "120"
+	 numFaces: "105"
+	
+	
+
+[13:08:42.801574] [Import] [info] (th=4616) File loaded successfully
+[13:08:42.801630] [Import] [info] (th=4616) Meshes count: 2
+[13:08:42.801685] [Import] [info] (th=4616) Materials count: 2
+[13:08:42.803246] [Import] [info] (th=4616) Textures count (imported): 1

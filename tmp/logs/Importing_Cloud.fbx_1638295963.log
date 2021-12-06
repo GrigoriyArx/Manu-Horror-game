@@ -1,0 +1,51 @@
+[20:12:43.195563] [Import] [info] (th=24236) Log level for 'Import' set to 'info'
+[20:12:43.196580] [Import] [info] (th=24236) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Cloud.fbx
+[20:12:43.233876] [Import] [info] (th=24236) Imported scene tree:
+name: "RootNode"
+
+	name: "Sphere.003"
+	numMeshes: 1
+	 addr: "000001E2A7493BC0"
+	 name: "Sphere.003"
+	 numVertices: "628"
+	 numFaces: "960"
+	
+	
+
+[20:12:43.233952] [Import] [info] (th=24236) File loaded successfully
+[20:12:43.234015] [Import] [info] (th=24236) Meshes count: 1
+[20:12:43.234077] [Import] [info] (th=24236) Materials count: 1
+[20:12:43.235222] [Import] [info] (th=24236) Textures count (imported): 0
+[20:18:30.404495] [Import] [info] (th=24236) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\mine cart.fbx
+[20:18:30.463751] [Import] [info] (th=24236) Imported scene tree:
+name: "RootNode"
+
+	name: "Base"
+	numMeshes: 1
+	 addr: "000001E3AACF9400"
+	 name: "Cube.003"
+	 numVertices: "196"
+	 numFaces: "120"
+	
+	
+		name: "Cart"
+		numMeshes: 1
+		 addr: "000001E3AACF9EA0"
+		 name: "Cube"
+		 numVertices: "56"
+		 numFaces: "36"
+		
+		
+		name: "Wheels"
+		numMeshes: 1
+		 addr: "000001E3AACF2470"
+		 name: "Cylinder"
+		 numVertices: "1032"
+		 numFaces: "992"
+		
+		
+
+[20:18:30.463826] [Import] [info] (th=24236) File loaded successfully
+[20:18:30.463889] [Import] [info] (th=24236) Meshes count: 3
+[20:18:30.463951] [Import] [info] (th=24236) Materials count: 3
+[20:18:30.572916] [Import] [info] (th=24236) Textures count (imported): 2
