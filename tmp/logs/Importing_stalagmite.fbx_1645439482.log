@@ -1,0 +1,18 @@
+[12:31:22.664422] [Import] [info] (th=9580) Log level for 'Import' set to 'info'
+[12:31:22.665444] [Import] [info] (th=9580) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\stalagmite.fbx
+[12:31:22.687237] [Import] [info] (th=9580) Imported scene tree:
+name: "RootNode"
+
+	name: "Stalactite.001"
+	numMeshes: 1
+	 addr: "000001FA4310E170"
+	 name: "Cube.006"
+	 numVertices: "142"
+	 numFaces: "152"
+	
+	
+
+[12:31:22.687307] [Import] [info] (th=9580) File loaded successfully
+[12:31:22.687363] [Import] [info] (th=9580) Meshes count: 1
+[12:31:22.687421] [Import] [info] (th=9580) Materials count: 1
+[12:31:22.689769] [Import] [info] (th=9580) Textures count (imported): 1

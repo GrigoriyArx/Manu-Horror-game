@@ -1,0 +1,16 @@
+{
+    "@class": "Texture2D",
+    "id": {
+        "uuid": "474F9CCA-9AE4-4BC1-802A-76FBB30CEE50"
+    },
+    "name": "",
+    "wrapT": "repeat",
+    "wrapS": "repeat",
+    "interpolation": "linear",
+    "image": {
+        "@class": "DevILImage",
+        "id": {
+            "uuid": "A45D887A-0316-429D-A66A-5D8E1C0B81F2"
+        }
+    }
+}

@@ -1,0 +1,141 @@
+[13:48:20.396574] [Import] [info] (th=9256) Log level for 'Import' set to 'info'
+[13:48:20.396698] [Import] [info] (th=9256) Importing from D:\Users\Chris\Documents\ManuCollab\Mother\Mom protect.fbx
+[13:48:20.426383] [Import] [info] (th=9256) Imported scene tree:
+name: "RootNode"
+
+	name: "Gretta_Armature"
+	
+		name: "pelvis"
+		
+			name: "spine01"
+			
+				name: "spine02"
+				
+					name: "spine03"
+					
+						name: "clavicle_L"
+						
+							name: "upperarm_L"
+							
+								name: "lowerarm_L"
+								
+									name: "hand_L"
+									
+										name: "thumb01_L"
+										
+											name: "thumb02_L"
+											
+												name: "thumb03_L"
+												
+													name: "thumb03_L_end"
+													
+										name: "index01_L"
+										
+											name: "index02_L"
+											
+												name: "index03_L"
+												
+													name: "index03_L_end"
+													
+										name: "middle01_L"
+										
+											name: "middle02_L"
+											
+												name: "middle03_L"
+												
+													name: "middle03_L_end"
+													
+										name: "ring01_L"
+										
+											name: "ring02_L"
+											
+												name: "ring03_L"
+												
+													name: "ring03_L_end"
+													
+										name: "pinky01_L"
+										
+											name: "pinky02_L"
+											
+												name: "pinky03_L"
+												
+													name: "pinky03_L_end"
+													
+						name: "clavicle_R"
+						
+							name: "upperarm_R"
+							
+								name: "lowerarm_R"
+								
+									name: "hand_R"
+									
+										name: "thumb01_R"
+										
+											name: "thumb02_R"
+											
+												name: "thumb03_R"
+												
+													name: "thumb03_R_end"
+													
+										name: "index01_R"
+										
+											name: "index02_R"
+											
+												name: "index03_R"
+												
+													name: "index03_R_end"
+													
+										name: "middle01_R"
+										
+											name: "middle02_R"
+											
+												name: "middle03_R"
+												
+													name: "middle03_R_end"
+													
+										name: "ring01_R"
+										
+											name: "ring02_R"
+											
+												name: "ring03_R"
+												
+													name: "ring03_R_end"
+													
+										name: "pinky01_R"
+										
+											name: "pinky02_R"
+											
+												name: "pinky03_R"
+												
+													name: "pinky03_R_end"
+													
+						name: "neck"
+						
+							name: "head2"
+							
+								name: "head2_end"
+								
+			name: "thigh_R"
+			
+				name: "calf_R"
+				
+					name: "foot_R"
+					
+						name: "toes_R"
+						
+							name: "toes_R_end"
+							
+			name: "thigh_L"
+			
+				name: "calf_L"
+				
+					name: "foot_L"
+					
+						name: "toes_L"
+						
+							name: "toes_L_end"
+							
+
+[13:48:20.426470] [Import] [info] (th=9256) File loaded successfully
+[13:48:20.426525] [Import] [info] (th=9256) Meshes count: 0
+[13:48:20.426578] [Import] [info] (th=9256) Materials count: 0

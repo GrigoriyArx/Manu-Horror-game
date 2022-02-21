@@ -1,0 +1,77 @@
+[21:13:56.868235] [Import] [info] (th=11460) Log level for 'Import' set to 'info'
+[21:13:56.868360] [Import] [info] (th=11460) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\simple car.fbx
+[21:13:56.882324] [Import] [info] (th=11460) Imported scene tree:
+name: "RootNode"
+
+	name: "Cube"
+	numMeshes: 6
+	 addr: "000002D296BF6A10"
+	 name: "Cube"
+	 numVertices: "150"
+	 numFaces: "80"
+	
+	 addr: "000002D296BEFA80"
+	 name: "Cube"
+	 numVertices: "32"
+	 numFaces: "16"
+	
+	 addr: "000002D296BF89F0"
+	 name: "Cube"
+	 numVertices: "573"
+	 numFaces: "384"
+	
+	 addr: "000002D296BFA9D0"
+	 name: "Cube"
+	 numVertices: "32"
+	 numFaces: "16"
+	
+	 addr: "000002D296BF8F40"
+	 name: "Cube"
+	 numVertices: "13"
+	 numFaces: "8"
+	
+	 addr: "000002D296BFC460"
+	 name: "Cube"
+	 numVertices: "36"
+	 numFaces: "24"
+	
+	
+		name: "Cylinder"
+		numMeshes: 2
+		 addr: "000002D296BFD9A0"
+		 name: "Cylinder"
+		 numVertices: "1371"
+		 numFaces: "1080"
+		
+		 addr: "000002D296BFF430"
+		 name: "Cylinder"
+		 numVertices: "471"
+		 numFaces: "448"
+		
+		
+		name: "Cylinder.001"
+		numMeshes: 2
+		 addr: "000002D296BF7A00"
+		 name: "Cylinder.001"
+		 numVertices: "1371"
+		 numFaces: "1080"
+		
+		 addr: "000002D296BFE990"
+		 name: "Cylinder.001"
+		 numVertices: "471"
+		 numFaces: "448"
+		
+		
+		name: "Cylinder.002"
+		numMeshes: 1
+		 addr: "000002D296BF9F30"
+		 name: "Cylinder.002"
+		 numVertices: "384"
+		 numFaces: "252"
+		
+		
+
+[21:13:56.882411] [Import] [info] (th=11460) File loaded successfully
+[21:13:56.882468] [Import] [info] (th=11460) Meshes count: 11
+[21:13:56.882523] [Import] [info] (th=11460) Materials count: 6
+[21:13:56.885110] [Import] [info] (th=11460) Textures count (imported): 0
