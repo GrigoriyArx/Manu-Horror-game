@@ -1,0 +1,18 @@
+[18:13:26.800205] [Import] [info] (th=20700) Log level for 'Import' set to 'info'
+[18:13:26.800303] [Import] [info] (th=20700) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\dirty-car by 3D Error 404\plate.fbx
+[18:13:26.802517] [Import] [info] (th=20700) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane"
+	numMeshes: 1
+	 addr: "000001E5422852A0"
+	 name: "Plane"
+	 numVertices: "16"
+	 numFaces: "18"
+	
+	
+
+[18:13:26.802582] [Import] [info] (th=20700) File loaded successfully
+[18:13:26.802636] [Import] [info] (th=20700) Meshes count: 1
+[18:13:26.802726] [Import] [info] (th=20700) Materials count: 1
+[18:13:26.805656] [Import] [info] (th=20700) Textures count (imported): 1

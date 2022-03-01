@@ -1,0 +1,70 @@
+[17:18:57.660920] [Import] [info] (th=16740) Log level for 'Import' set to 'info'
+[17:18:57.662650] [Import] [info] (th=16740) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Black2B.fbx
+[17:18:57.689083] [Import] [info] (th=16740) Imported scene tree:
+name: "RootNode"
+
+	name: "House_Exterior.003"
+	numMeshes: 1
+	 addr: "00000221BB833570"
+	 name: "Cube.108"
+	 numVertices: "204"
+	 numFaces: "169"
+	
+	
+
+[17:18:57.689376] [Import] [info] (th=16740) File loaded successfully
+[17:18:57.689736] [Import] [info] (th=16740) Meshes count: 1
+[17:18:57.689803] [Import] [info] (th=16740) Materials count: 1
+[17:18:57.694867] [Import] [info] (th=16740) Textures count (imported): 1
+[19:16:46.243162] [Import] [info] (th=16740) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Back_yardfbx.fbx
+[19:16:46.250113] [Import] [info] (th=16740) Imported scene tree:
+name: "RootNode"
+
+	name: "House_enter_LP.003"
+	numMeshes: 1
+	 addr: "0000022214FBE580"
+	 name: "Cube.003"
+	 numVertices: "2023"
+	 numFaces: "1078"
+	
+	
+
+[19:16:46.250178] [Import] [info] (th=16740) File loaded successfully
+[19:16:46.250233] [Import] [info] (th=16740) Meshes count: 1
+[19:16:46.250288] [Import] [info] (th=16740) Materials count: 1
+[19:16:46.250607] [Import] [warning] (th=16740) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\EnterHouse_Textures\EnterGround_Normal.png
+[19:16:46.250674] [Import] [info] (th=16740) Textures count (imported): 0
+[19:20:18.677374] [Import] [info] (th=16740) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Back_yardfbx.fbx
+[19:20:18.683660] [Import] [info] (th=16740) Imported scene tree:
+name: "RootNode"
+
+	name: "House_enter_LP.003"
+	numMeshes: 1
+	 addr: "0000022214FCA4C0"
+	 name: "Cube.003"
+	 numVertices: "2023"
+	 numFaces: "1078"
+	
+	
+		name: "House_enter_LP.004"
+		numMeshes: 1
+		 addr: "0000022214FC9A20"
+		 name: "Cube.009"
+		 numVertices: "460"
+		 numFaces: "230"
+		
+		
+		name: "House_enter_LP.005"
+		numMeshes: 1
+		 addr: "0000022214FC6FA0"
+		 name: "Cube.010"
+		 numVertices: "360"
+		 numFaces: "180"
+		
+		
+
+[19:20:18.683745] [Import] [info] (th=16740) File loaded successfully
+[19:20:18.683818] [Import] [info] (th=16740) Meshes count: 3
+[19:20:18.683890] [Import] [info] (th=16740) Materials count: 1
+[19:20:18.684226] [Import] [warning] (th=16740) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_4\EnterHouse_Textures\EnterGround_Normal.png
+[19:20:18.684290] [Import] [info] (th=16740) Textures count (imported): 0

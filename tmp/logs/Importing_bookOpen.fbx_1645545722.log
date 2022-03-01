@@ -1,0 +1,37 @@
+[18:02:02.097183] [Import] [info] (th=7712) Log level for 'Import' set to 'info'
+[18:02:02.097321] [Import] [info] (th=7712) Importing from D:\Users\Chris\Downloads\!Assets Manu\1. The Curse Assets\bookOpen.fbx
+[18:02:02.124122] [Import] [info] (th=7712) Imported scene tree:
+name: "RootNode"
+
+	name: "book"
+	numMeshes: 3
+	 addr: "000001AE25677D10"
+	 name: "Cube"
+	 numVertices: "104"
+	 numFaces: "60"
+	
+	 addr: "000001AE25679250"
+	 name: "Cube"
+	 numVertices: "36"
+	 numFaces: "24"
+	
+	 addr: "000001AE2567E750"
+	 name: "Cube"
+	 numVertices: "24"
+	 numFaces: "20"
+	
+	
+	name: "Plane"
+	numMeshes: 1
+	 addr: "000001AE25677270"
+	 name: "Plane"
+	 numVertices: "9"
+	 numFaces: "5"
+	
+	
+
+[18:02:02.124206] [Import] [info] (th=7712) File loaded successfully
+[18:02:02.124263] [Import] [info] (th=7712) Meshes count: 4
+[18:02:02.124317] [Import] [info] (th=7712) Materials count: 4
+[18:02:02.128659] [Import] [warning] (th=7712) Texture not found: E:\Users\Chris\Downloads\MANU-1.1.0-alpha\Assets\textures\script.png
+[18:02:02.128817] [Import] [info] (th=7712) Textures count (imported): 0
