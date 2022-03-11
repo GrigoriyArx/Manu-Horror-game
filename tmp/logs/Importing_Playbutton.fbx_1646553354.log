@@ -1,0 +1,35 @@
+[09:55:54.067670] [Import] [info] (th=8808) Log level for 'Import' set to 'info'
+[09:55:54.068025] [Import] [info] (th=8808) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Playbutton.fbx
+[09:55:54.086786] [Import] [info] (th=8808) Imported scene tree:
+name: "RootNode"
+
+	name: "Text"
+	numMeshes: 1
+	 addr: "000002BB474CC820"
+	 name: "Text"
+	 numVertices: "1085"
+	 numFaces: "1073"
+	
+	
+
+[09:55:54.086852] [Import] [info] (th=8808) File loaded successfully
+[09:55:54.086907] [Import] [info] (th=8808) Meshes count: 1
+[09:55:54.086961] [Import] [info] (th=8808) Materials count: 1
+[09:55:54.088403] [Import] [info] (th=8808) Textures count (imported): 0
+[10:22:03.732958] [Import] [info] (th=8808) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\Creditsbutton.fbx
+[10:22:03.751038] [Import] [info] (th=8808) Imported scene tree:
+name: "RootNode"
+
+	name: "Text.001"
+	numMeshes: 1
+	 addr: "000002BB474D07E0"
+	 name: "Text.001"
+	 numVertices: "2297"
+	 numFaces: "2277"
+	
+	
+
+[10:22:03.751108] [Import] [info] (th=8808) File loaded successfully
+[10:22:03.751163] [Import] [info] (th=8808) Meshes count: 1
+[10:22:03.751218] [Import] [info] (th=8808) Materials count: 1
+[10:22:03.751366] [Import] [info] (th=8808) Textures count (imported): 0

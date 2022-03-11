@@ -1,0 +1,18 @@
+[20:23:18.854948] [Import] [info] (th=6392) Log level for 'Import' set to 'info'
+[20:23:18.855894] [Import] [info] (th=6392) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\blackframefbx.fbx
+[20:23:18.878461] [Import] [info] (th=6392) Imported scene tree:
+name: "RootNode"
+
+	name: "Scene_BLACK"
+	numMeshes: 1
+	 addr: "00000251EFE9FE20"
+	 name: "Cube.168"
+	 numVertices: "355"
+	 numFaces: "341"
+	
+	
+
+[20:23:18.878550] [Import] [info] (th=6392) File loaded successfully
+[20:23:18.878621] [Import] [info] (th=6392) Meshes count: 1
+[20:23:18.878688] [Import] [info] (th=6392) Materials count: 1
+[20:23:18.881591] [Import] [info] (th=6392) Textures count (imported): 1
