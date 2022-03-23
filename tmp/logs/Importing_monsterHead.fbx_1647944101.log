@@ -1,0 +1,23 @@
+[12:15:01.532139] [Import] [info] (th=14740) Log level for 'Import' set to 'info'
+[12:15:01.532547] [Import] [info] (th=14740) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\monsterHead.fbx
+[12:15:01.554827] [Import] [info] (th=14740) Imported scene tree:
+name: "RootNode"
+
+	name: "thc4_lp.001"
+	numMeshes: 2
+	 addr: "00000248E2593D80"
+	 name: "Plane.008"
+	 numVertices: "98"
+	 numFaces: "168"
+	
+	 addr: "00000248E2596800"
+	 name: "Plane.008"
+	 numVertices: "1750"
+	 numFaces: "2434"
+	
+	
+
+[12:15:01.554892] [Import] [info] (th=14740) File loaded successfully
+[12:15:01.554947] [Import] [info] (th=14740) Meshes count: 2
+[12:15:01.555057] [Import] [info] (th=14740) Materials count: 2
+[12:15:01.557615] [Import] [info] (th=14740) Textures count (imported): 0
