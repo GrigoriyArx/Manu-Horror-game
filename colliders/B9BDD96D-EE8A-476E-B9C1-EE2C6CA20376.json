@@ -1,1 +1,1 @@
-{"@class":"Collider","id":{"uuid":"B9BDD96D-EE8A-476E-B9C1-EE2C6CA20376"},"colliderInfo":[{"@class":"ColliderInfo","collisionShape":"box","alongAxis":"oy","center":{"values":[0.0,0.0,0.0]},"params":{"values":[1.0,1.0,1.0]},"color":{"values":[1.0,1.0,1.0]},"isSelected":false}]}
+{"@class":"Collider","id":{"uuid":"B9BDD96D-EE8A-476E-B9C1-EE2C6CA20376"},"colliderInfo":[{"@class":"ColliderInfo","collisionShape":"box","alongAxis":"oy","center":{"values":[0.0,0.0,0.0]},"params":{"values":[1.0,1.0,1.0]}}]}

@@ -1,0 +1,99 @@
+[11:56:07.298822] [Import] [info] (th=14420) Log level for 'Import' set to 'info'
+[11:56:07.300840] [Import] [info] (th=14420) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\bath_tiles.fbx
+[11:56:07.336801] [Import] [info] (th=14420) Imported scene tree:
+name: "RootNode"
+
+	name: "Tile 4"
+	numMeshes: 1
+	 addr: "000002729C6B2B60"
+	 name: "Cube"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 1"
+	numMeshes: 1
+	 addr: "000002729C6B10D0"
+	 name: "Cube.003"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 2"
+	numMeshes: 1
+	 addr: "000002729C6B7B10"
+	 name: "Cube.004"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 3"
+	numMeshes: 1
+	 addr: "000002729C6B0630"
+	 name: "Cube.005"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 7"
+	numMeshes: 1
+	 addr: "000002729C6B6B20"
+	 name: "Cube.006"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 5"
+	numMeshes: 1
+	 addr: "000002729C6B75C0"
+	 name: "Cube.007"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 6"
+	numMeshes: 1
+	 addr: "000002729C6B40A0"
+	 name: "Cube.008"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 8"
+	numMeshes: 1
+	 addr: "000002729C6B45F0"
+	 name: "Cube.010"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 11"
+	numMeshes: 1
+	 addr: "000002729C6B0B80"
+	 name: "Cube.011"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 9"
+	numMeshes: 1
+	 addr: "000002729C6B00E0"
+	 name: "Cube.013"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+	name: "Tile 10"
+	numMeshes: 1
+	 addr: "000002729C6B9050"
+	 name: "Cube.014"
+	 numVertices: "24"
+	 numFaces: "12"
+	
+	
+
+[11:56:07.336876] [Import] [info] (th=14420) File loaded successfully
+[11:56:07.336929] [Import] [info] (th=14420) Meshes count: 11
+[11:56:07.336994] [Import] [info] (th=14420) Materials count: 1
+[11:56:07.340594] [Import] [warning] (th=14420) Texture not found: D:\Users\Chris\Documents\ManuCollab\GGG_animations_for_Game2.blend\Scene_2.5\Textures\Scene_test_for_SP_Normal.png
+[11:56:07.340692] [Import] [info] (th=14420) Textures count (imported): 1

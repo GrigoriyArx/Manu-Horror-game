@@ -1,1 +1,1 @@
-{"@class":"Texture2D","id":{"uuid":"8C833905-55F8-41CE-88FD-A498E9FC1886"},"name":"","wrapT":"repeat","wrapS":"repeat","interpolation":"linear","image":{"@class":"DevILImage","id":{"uuid":"079774BD-1287-4F17-B0FF-3B0F466BD45E"}}}
+{"@class":"Texture2D","id":{"uuid":"8C833905-55F8-41CE-88FD-A498E9FC1886"},"name":"","image":{"@class":"DevILImage","id":{"uuid":"079774BD-1287-4F17-B0FF-3B0F466BD45E"}}}
