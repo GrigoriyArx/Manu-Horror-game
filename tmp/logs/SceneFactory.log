@@ -79,3 +79,5 @@
 [11:09:27.909373] [SceneFactory] [info] (th=14420) Log level for 'SceneFactory' set to 'info'
 [11:09:27.910304] [SceneFactory] [info] (th=14420) Box is created: id: CAD2262C-FAD5-47E0-90A1-CBD0B95C3F71
 [11:56:07.297311] [SceneFactory] [info] (th=14420) Log level for 'SceneFactory' set to 'info'
+[16:21:18.460547] [SceneFactory] [info] (th=14108) Log level for 'SceneFactory' set to 'info'
+[16:21:18.463843] [SceneFactory] [info] (th=14108) Light is created: id: D96C137E-7A1D-4436-B5DB-58F19EFE82D7
