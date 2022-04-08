@@ -1,0 +1,18 @@
+[10:28:45.834827] [Import] [info] (th=11044) Log level for 'Import' set to 'info'
+[10:28:45.835287] [Import] [info] (th=11044) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\websNEW.fbx
+[10:28:45.989834] [Import] [info] (th=11044) Imported scene tree:
+name: "RootNode"
+
+	name: "SpiderWebOriginal.001"
+	numMeshes: 1
+	 addr: "000001C23115FEC0"
+	 name: "SpiderWebOriginal.001"
+	 numVertices: "17972"
+	 numFaces: "9024"
+	
+	
+
+[10:28:45.989920] [Import] [info] (th=11044) File loaded successfully
+[10:28:45.989975] [Import] [info] (th=11044) Meshes count: 1
+[10:28:45.990029] [Import] [info] (th=11044) Materials count: 1
+[10:28:45.999303] [Import] [info] (th=11044) Textures count (imported): 0
