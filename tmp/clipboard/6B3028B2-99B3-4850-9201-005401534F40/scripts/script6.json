@@ -1,0 +1,95 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "18F2D260-B61C-404A-9B25-CC686DBA95E3"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "6A61B6FF-390A-411E-BDE3-E2CC44931557"
+                },
+                "name": "Speaker_3_1",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "ACB7C462-87B6-4DF1-8F0F-473E57A7891F"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 5,
+                        "name": "Plank_Br_3_1",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Speaker_3_1"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "640D4093-964A-4C43-9C9B-B71EDF390372"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            },
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "45A138F0-D40C-4C81-9D28-3E54E1EE3489"
+                },
+                "name": "Master Sound",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink"
+                },
+                "animation": {
+                    "uuid": "7CC004A8-ABA1-47FF-84A5-C55A3C53DA3B"
+                },
+                "AnimationType": "masterSound",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "E09A7188-FF50-41BA-8C3A-492BE1B13A70"
+            },
+            "ownerScriptId": {
+                "uuid": "18F2D260-B61C-404A-9B25-CC686DBA95E3"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "17E89D18-3A57-4324-810D-A10162C9643A"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "CD7EEF8E-85F1-4BA4-ACCC-B8D87288A56D"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "@class": "TimeLineScript",
+    "id": {
+        "uuid": "A5724DA0-CB11-4758-BAD7-8326BC7FE722"
+    },
+    "name": "Animation",
+    "enableOnAwake": false,
+    "loop": false,
+    "jumpToFirstFrameAtEnd": false,
+    "speed": 1.0,
+    "weight": 1.0,
+    "loopStartTime": 0,
+    "loopDuration": 0,
+    "is_imported": false,
+    "type": "user",
+    "scripts": {
+        "@class": "StdListRuntimeScript",
+        "list": [
+            {
+                "@class": "AnimationScript",
+                "id": {
+                    "uuid": "72B4BD17-1AC2-438C-861B-C2A3E2175D85"
+                },
+                "name": "Speaker_3_1",
+                "enableOnAwake": false,
+                "OwnerLink": {
+                    "@class": "BindingLink",
+                    "targetId": {
+                        "uuid": "459CAC75-9929-46BE-ABDC-E1AB92FA02E5"
+                    },
+                    "targetRelativeAddress": {
+                        "@class": "NodeRelativeAddressBase",
+                        "index": 2,
+                        "name": "Plank_Br_2_2",
+                        "subaddress": {
+                            "@class": "NodeRelativeAddressBase",
+                            "index": 0,
+                            "name": "Speaker_2_2"
+                        }
+                    }
+                },
+                "animation": {
+                    "uuid": "248603F0-AA15-4FFA-B7FE-FA6E501FC745"
+                },
+                "AnimationType": "object3D",
+                "is_imported": false,
+                "isEnabled": true
+            }
+        ]
+    },
+    "triggers": [
+        {
+            "@class": "CollisionTrigger",
+            "id": {
+                "uuid": "A858008C-96A2-45CB-BD3B-AF0C624E2DC9"
+            },
+            "ownerScriptId": {
+                "uuid": "A5724DA0-CB11-4758-BAD7-8326BC7FE722"
+            },
+            "logicOperation": 0,
+            "resultType": 0,
+            "isInverted": false,
+            "eventType": "in",
+            "targetBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "451BB2B3-EC6F-4829-AE06-42940F023802"
+                }
+            },
+            "zoneBindingLink": {
+                "@class": "BindingLink",
+                "targetId": {
+                    "uuid": "CD7EEF8E-85F1-4BA4-ACCC-B8D87288A56D"
+                }
+            }
+        }
+    ]
+}

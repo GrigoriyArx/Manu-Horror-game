@@ -1,0 +1,1 @@
+{"@class":"Light","id":{"uuid":"EE50E0FB-AB51-46F4-84E0-EE99E4597A2A"},"lightType":"point","color":{"values":[1.0,0.9172350764274597,0.7993438839912415]},"intensity":3.0,"radius":5.5,"coneAngle":45.0,"prenumbra":1.0,"shadowType":"no","shadowSizeX":16.0,"shadowSizeY":16.0,"shadowResolutionX":1024.0,"shadowResolutionY":1024.0,"shadowDarkness":1.0,"shadowBias":0.5}

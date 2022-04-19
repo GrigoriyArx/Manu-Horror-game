@@ -1,0 +1,14 @@
+{
+    "@class": "AudioSource",
+    "id": {
+        "uuid": "6CA34285-7D31-4DC9-84F2-F574CC978377"
+    },
+    "volume": 1.0,
+    "volumeModulation": 1.0,
+    "pitch": 1.0,
+    "pitchModulation": 1.0,
+    "minDistance": 2.0,
+    "maxDistance": 4.0,
+    "rollof": 1,
+    "panOverride": true
+}
