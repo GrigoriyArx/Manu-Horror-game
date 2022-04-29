@@ -1,0 +1,18 @@
+[11:32:28.539025] [Import] [info] (th=9212) Log level for 'Import' set to 'info'
+[11:32:28.539159] [Import] [info] (th=9212) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\star.fbx
+[11:32:28.553887] [Import] [info] (th=9212) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000002202A600ED0"
+	 name: "Plane.001"
+	 numVertices: "180"
+	 numFaces: "64"
+	
+	
+
+[11:32:28.553950] [Import] [info] (th=9212) File loaded successfully
+[11:32:28.554008] [Import] [info] (th=9212) Meshes count: 1
+[11:32:28.554066] [Import] [info] (th=9212) Materials count: 1
+[11:32:28.554639] [Import] [info] (th=9212) Textures count (imported): 0

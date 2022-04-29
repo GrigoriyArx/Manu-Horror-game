@@ -1,0 +1,251 @@
+[18:04:17.852211] [Import] [info] (th=23540) Log level for 'Import' set to 'info'
+[18:04:17.861435] [Import] [info] (th=23540) Importing from D:\Users\Chris\Documents\ManuCollab\GGG_sketch_export_to_MIXAMO.fbx\Mixamo animations\scary new set\trapped and faint.fbx
+[18:04:18.125663] [Import] [info] (th=23540) Imported scene tree:
+name: "RootNode"
+
+	name: "G_male_base_armature"
+	
+		name: "root_bone"
+		
+			name: "Hips"
+			
+				name: "spine"
+				
+					name: "chest_bottom"
+					
+						name: "chest"
+						
+							name: "neck"
+							
+								name: "Head"
+								
+									name: "braid1.L"
+									
+										name: "braid2.L"
+										
+											name: "braid3.L"
+											
+												name: "braid4.L"
+												
+													name: "braid4.L_end"
+													
+									name: "braid1.R"
+									
+										name: "braid2.R"
+										
+											name: "braid3.R"
+											
+												name: "braid4.R"
+												
+													name: "braid4.R_end"
+													
+									name: "eye.L"
+									
+										name: "eye.L_end"
+										
+									name: "eye.R"
+									
+										name: "eye.R_end"
+										
+							name: "shoulder.L"
+							
+								name: "arm.L"
+								
+									name: "forearm.L"
+									
+										name: "hand.L"
+										
+											name: "f_Thumb1.L"
+											
+												name: "f_Thumb2.L"
+												
+													name: "f_Thumb3.L"
+													
+														name: "f_Thumb3.L_end"
+														
+											name: "f_Index1.L"
+											
+												name: "f_Index2.L"
+												
+													name: "f_Index3.L"
+													
+														name: "f_Index3.L_end"
+														
+											name: "f_Middle1.L"
+											
+												name: "f_Middle2.L"
+												
+													name: "f_Middle3.L"
+													
+														name: "f_Middle3.L_end"
+														
+											name: "f_Ring1.L"
+											
+												name: "f_Ring2.L"
+												
+													name: "f_Ring3.L"
+													
+														name: "f_Ring3.L_end"
+														
+											name: "f_Pinky1.L"
+											
+												name: "f_Pinky2.L"
+												
+													name: "f_Pinky3.L"
+													
+														name: "f_Pinky3.L_end"
+														
+							name: "shoulder.R"
+							
+								name: "arm.R"
+								
+									name: "forearm.R"
+									
+										name: "hand.R"
+										
+											name: "f_Thumb1.R"
+											
+												name: "f_Thumb2.R"
+												
+													name: "f_Thumb3.R"
+													
+														name: "f_Thumb3.R_end"
+														
+											name: "f_Index1.R"
+											
+												name: "f_Index2.R"
+												
+													name: "f_Index3.R"
+													
+														name: "f_Index3.R_end"
+														
+											name: "f_Middle1.R"
+											
+												name: "f_Middle2.R"
+												
+													name: "f_Middle3.R"
+													
+														name: "f_Middle3.R_end"
+														
+											name: "f_Ring1.R"
+											
+												name: "f_Ring2.R"
+												
+													name: "f_Ring3.R"
+													
+														name: "f_Ring3.R_end"
+														
+											name: "f_Pinky1.R"
+											
+												name: "f_Pinky2.R"
+												
+													name: "f_Pinky3.R"
+													
+														name: "f_Pinky3.R_end"
+														
+				name: "leg_up.L"
+				
+					name: "leg.L"
+					
+						name: "foot.L"
+						
+							name: "toe.L"
+							
+								name: "toe.L_end"
+								
+				name: "leg_up.R"
+				
+					name: "leg.R"
+					
+						name: "foot.R"
+						
+							name: "toe.R"
+							
+								name: "toe.R_end"
+								
+
+[18:04:18.125750] [Import] [info] (th=23540) File loaded successfully
+[18:04:18.125823] [Import] [info] (th=23540) Meshes count: 0
+[18:04:18.125904] [Import] [info] (th=23540) Materials count: 0
+[18:05:16.468498] [Import] [info] (th=23540) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\webs arms.fbx
+[18:05:16.503136] [Import] [info] (th=23540) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane"
+	numMeshes: 1
+	 addr: "000001F3B419FA90"
+	 name: "Plane"
+	 numVertices: "31"
+	 numFaces: "44"
+	
+	
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000001F457068C10"
+	 name: "Plane.001"
+	 numVertices: "31"
+	 numFaces: "44"
+	
+	
+
+[18:05:16.503205] [Import] [info] (th=23540) File loaded successfully
+[18:05:16.503262] [Import] [info] (th=23540) Meshes count: 2
+[18:05:16.503317] [Import] [info] (th=23540) Materials count: 1
+[18:05:16.503968] [Import] [info] (th=23540) Textures count (imported): 1
+[18:10:57.750343] [Import] [info] (th=23540) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\webs arms.fbx
+[18:10:57.755432] [Import] [info] (th=23540) Imported scene tree:
+name: "RootNode"
+
+	name: "Plane"
+	numMeshes: 1
+	 addr: "000001F3B419D560"
+	 name: "Plane"
+	 numVertices: "31"
+	 numFaces: "44"
+	
+	
+	name: "Armature"
+	
+		name: "Bone"
+		
+			name: "Bone.001"
+			
+				name: "Bone.001_end"
+				
+	name: "Plane.001"
+	numMeshes: 1
+	 addr: "000001F3B419DAB0"
+	 name: "Plane.001"
+	 numVertices: "31"
+	 numFaces: "44"
+	
+	
+	name: "Armature.001"
+	
+		name: "Bone001"
+		
+			name: "Bone.001001"
+			
+				name: "Bone.001_end001"
+				
+
+[18:10:57.755525] [Import] [info] (th=23540) File loaded successfully
+[18:10:57.755593] [Import] [info] (th=23540) Meshes count: 2
+[18:10:57.755675] [Import] [info] (th=23540) Materials count: 1
+[18:10:57.756184] [Import] [info] (th=23540) Textures count (imported): 1
+[18:16:05.765945] [Import] [info] (th=23540) Importing from D:\Users\Chris\Documents\ManuCollab\3D assets\R webs.fbx
+[18:16:05.768903] [Import] [info] (th=23540) Imported scene tree:
+name: "RootNode"
+
+	name: "Armature"
+	
+		name: "Bone"
+		
+			name: "Bone.001"
+			
+				name: "Bone.001_end"
+				
+
+[18:16:05.768981] [Import] [info] (th=23540) File loaded successfully
+[18:16:05.769053] [Import] [info] (th=23540) Meshes count: 0
+[18:16:05.769125] [Import] [info] (th=23540) Materials count: 0
